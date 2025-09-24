@@ -1,3 +1,8 @@
+---
+title: Basic Note Template
+draft: true
+aliases:
+---
 ###### Up: <%* tR += '[[' + 'Development Stages MOC' + ']]' %>
 # [[<% tp.file.title %>]]
 ---

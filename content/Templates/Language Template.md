@@ -1,3 +1,8 @@
+---
+title: Language Template
+draft: true
+aliases:
+---
 ###### Up: <%* tR += '[[' + 'In-Game Languages' + ']]' %> | <%* tR += '[[' + 'Development Stages MOC' + ']]' %>
 # [[<% tp.file.title %>]]
 ---

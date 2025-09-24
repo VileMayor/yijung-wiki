@@ -1,3 +1,8 @@
+---
+title: Module - World Event Template
+draft: true
+aliases:
+---
 ###### Up:  <%* tR += '[[' + 'Campaign MOC#World Events' + '|' + 'World Events' + ']]' %> | <%* tR += '[[' + 'Development Stages MOC' + ']]' %>
 # [[<% tp.file.title %>]]
 ---

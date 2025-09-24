@@ -1,3 +1,8 @@
+---
+title: Magic Item Template
+draft: true
+aliases:
+---
 ###### Up: <%* tR += '[[' + 'Adventure MOC#Magic Items' + '|' + 'Magic Items' + ']]' %> | <%* tR += '[[' + 'Development Stages MOC' + ']]' %>
 # [[<% tp.file.title %>]]
 ---Example

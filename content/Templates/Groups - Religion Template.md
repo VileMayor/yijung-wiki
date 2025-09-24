@@ -1,3 +1,8 @@
+---
+title: Groups - Religion Template
+draft: true
+aliases:
+---
 ###### Up: <%* tR += '[[' + 'Groups MOC#Religions' + '|' + 'Religions' + ']]' %> | <%* tR += '[[' + 'Development Stages MOC' + ']]' %>
 # [[<% tp.file.title %>]]
 > [!info]

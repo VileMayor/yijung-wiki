@@ -1,3 +1,8 @@
+---
+title: Location - Region-Subplane Template
+draft: true
+aliases:
+---
 ###### Up: <%* tR += '[[' + 'Den Chöton#Continents and Regions' + '|' + 'Continents and Regions' + ']]' %> | <%* tR += '[[' + 'Development Stages MOC' + ']]' %>
 # [[<% tp.file.title %>]]
 > [!info]

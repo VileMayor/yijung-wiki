@@ -1,3 +1,8 @@
+---
+title: Species Template
+draft: true
+aliases:
+---
 ###### Up: <%* tR += '[[' + 'People MOC#Playable Species' + '|' + 'Playable Species' + ']]' %> | <%* tR += '[[' + 'Development Stages MOC' + ']]' %>
 # [[<% tp.file.title %>]]
 > [!info]

@@ -1,3 +1,8 @@
+---
+title: NPC - Legendary Template
+draft: true
+aliases:
+---
 ###### Up: <%* tR += '[[' + 'People MOC#Legendary NPCs' + '|' + 'Legendary NPCs' + ']]' %> | <%* tR += '[[' + 'Development Stages MOC' + ']]' %>
 
 # [[<% tp.file.title %>]]

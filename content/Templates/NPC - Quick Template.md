@@ -1,3 +1,8 @@
+---
+title: NPC - Quick Template
+draft: true
+aliases:
+---
 ###### Up: <%* tR += '[[' + 'People MOC#Incidental NPCs' + '|' + 'Incidental NPCs' + ']]' %> | <%* tR += '[[' + 'Development Stages MOC' + ']]' %>
 
 # [[<% tp.file.title %>]]

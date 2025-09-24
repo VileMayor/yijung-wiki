@@ -1,4 +1,8 @@
-
+---
+title: Dialogue Template
+draft: true
+aliases:
+---
 ```dialogue
 left: [[]]
 right: [[]]

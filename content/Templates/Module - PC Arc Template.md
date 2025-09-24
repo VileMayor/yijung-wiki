@@ -1,3 +1,8 @@
+---
+title: Module - Contracts Template
+draft: true
+aliases:
+---
 ###### Up: <%* tR += '[[' + 'Campaign MOC#PC Arcs' + '|' + 'PC Arcs' + ']]' %> | <%* tR += '[[' + 'Development Stages MOC' + ']]' %>
 # [[<% tp.file.title %>]]
 ---

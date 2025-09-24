@@ -1,3 +1,8 @@
+---
+title: Groups - Governmental Faction Template
+draft: true
+aliases:
+---
 ###### Up: <%* tR += '[[' + 'Groups MOC#Governmental Factions' + '|' + 'Governmental Factions' + ']]' %> | <%* tR += '[[' + 'Development Stages MOC' + ']]' %>
 # [[<% tp.file.title %>]]
 > [!info]

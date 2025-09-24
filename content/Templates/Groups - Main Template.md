@@ -1,3 +1,8 @@
+---
+title: Groups - Main Template
+draft: true
+aliases:
+---
 ###### Up: <%* tR += '[[' + 'Groups MOC|Insert HERE]]' %> | <%* tR += '[[' + 'Development Stages MOC' + ']]' %>
 # [[<% tp.file.title %>]]
 > [!info]

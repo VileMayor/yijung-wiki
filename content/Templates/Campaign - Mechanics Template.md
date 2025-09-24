@@ -1,3 +1,8 @@
+---
+title: Campaign - Mechanics Template
+draft: true
+aliases:
+---
 ###### Up: <%* tR += '[[' + 'Campaign MOC#Mechanics' + '|' + 'Mechancis' + ']]' %> | <%* tR += '[[' + 'Development Stages MOC' + ']]' %>
 # [[<% tp.file.title %>]]
 > [!info]

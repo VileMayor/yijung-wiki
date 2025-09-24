@@ -1,3 +1,8 @@
+---
+title: Location - World-Plane Template
+draft: true
+aliases:
+---
 ###### Up: <%* tR += '[[' + 'Den Chöton#Worlds' + '|' + 'Worlds' + ']]' %> | <%* tR += '[[' + 'Development Stages MOC' + ']]' %>
 
 # [[<% tp.file.title %>]]

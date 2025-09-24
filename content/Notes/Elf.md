@@ -1,10 +1,10 @@
 ---
 title: Location - City-POI Template
-draft: true
+draft: false
 aliases:
 ---
-###### Up: <%* tR += '[[' + 'Den Chöton#Cities' + '|' + 'Cities' + ']]' %> | <%* tR += '[[' + 'Development Stages MOC' + ']]' %>
-# [[<% tp.file.title %>]]
+###### Up: [[Den Chöton#Cities|Cities]] | [[Development Stages MOC]]
+# [[Elf]]
 > [!info]
 > - Type:                        <!-- City / Ruin / Site / Landmark -->
 > - Region / Continent:          

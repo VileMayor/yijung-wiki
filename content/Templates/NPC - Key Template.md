@@ -1,3 +1,8 @@
+---
+title: Module - World Event Template
+draft: true
+aliases:
+---
 ###### Up: <%* tR += '[[' + 'People MOC#Key NPCs' + '|' + 'Key NPCs' + ']]' %> | <%* tR += '[[' + 'Development Stages MOC' + ']]' %>
 
 # [[<% tp.file.title %>]]

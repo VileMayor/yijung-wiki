@@ -1,3 +1,8 @@
+---
+title: Dataview - Alphabetical - MOC List Template
+draft: true
+aliases:
+---
 <%*  
 const activeFile = app.workspace.getActiveFile();  
 if (!activeFile) throw new Error("No active file open.");
