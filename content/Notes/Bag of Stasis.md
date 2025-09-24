@@ -1,3 +1,10 @@
+---
+title: Bag of Stasis
+draft: false
+tags:
+---
+ 
+
 ###### Up: [[Campaign MOC#Magic Items|Magic Items]]
 # [[Bag of Stasis]]
 ---
