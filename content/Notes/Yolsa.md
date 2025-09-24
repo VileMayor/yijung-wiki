@@ -2,39 +2,58 @@
 title: Yolsa
 draft: false
 ---
-###### Up: [[Den Chöton#Continents and Regions|Continents and Regions]] | [[Development Stages MOC]]
+###### Up: [[Den Chöton#Continents and Regions|Continents and Regions]] | [[Development Stages MOC#**Low Priority**]]
 # [[Yolsa]]
 > [!info]
 > - Parent World: [[Salbé]]      
 > - Scale: Continent                       <!-- continent / subplane / island chain -->
 > - Major Nations / States: [[Imperium Jampyul]] [[Frostlands]]  
-> - Capital Cities / Hubs: [[Tifenheim]] [[Regentseat]] [[Ur Ur Nesa]]       
+> - Capital Cities / Hubs: [[Tifenheim]] [[Regentseat]] [[Ur Ur Nesa]]           
+> - Ongoing Conflicts:           
+> - Factions / Cults:   
+---
+> Safe Place || Tibetan
+---
+## Overview
+Primary Continent for the campaign. Where the [[Elven Arrival|elves arrived]] on [[Salbé|Salbé]].
+
+## Cultures & Peoples
+
+## Political Landscape
+
+
+## Map
+```leaflet
+id: leaflet-map
+image: [[Black and White Yolsa - Picture.png]]
+height: 350px
+lat: 50
+long: 50
+minZoom: 7.35
+maxZoom: 10
+defaultZoom: 7.6
+unit: meters
+scale: 1
+marker: default, 39.983334, -82.983330, [[Note]]
+darkMode: true
+```
+
+# TBD 
 > - Climate / Biomes:            
 > - Major Geography:             
 > - Natural Resources:           
 > - Trade Routes & Ports:        
 > - Population & Cultures:       
 > - Languages:                   
-> - Strategic Locations:         
-> - Ongoing Conflicts:           
-> - Factions / Cults:            
+> - Strategic Locations:               
 > - Borders / Relations:         
 > - Travel Times & Distances:    
-> - Notable Secrets / Ruins:     
----
-> Safe Place || Tibetan
----
-## Summary
-Primary Continent for the campaign. Where the [[Elven Arrival|elves arrived]] on [[Salbé|Salbé]].
-
+> - Notable Secrets / Ruins:  
 ## Geography & Climate
 Overview of terrain zones, notable mountain ranges, rivers, seas, and climate zones.
 
-## Political Landscape
-Who rules, major alliances, recent wars or treaties, contested borderlands.
 
-## Cultures & Peoples
-Major ethnic groups, cultural traits, common customs and taboos.
+
 
 ## Economy & Trade
 Key exports/imports, wealthy vs poor areas, important trade hubs and caravan routes.
@@ -56,19 +75,3 @@ Foundations, migrations, major wars, cataclysms shaping the region.
 
 ## Travel & Logistics
 Typical travel speeds across terrain, choke points, seasonal hazards.
-
-## Map & Indexing
-```leaflet
-id: leaflet-map
-image: [[Black and White Yolsa.webp]]
-height: 500px
-lat: 50
-long: 50
-minZoom: 6
-maxZoom: 10
-defaultZoom: 8
-unit: meters
-scale: 10
-marker: default, 39.983334, -82.983330, [[Note]]
-darkMode: false
-```

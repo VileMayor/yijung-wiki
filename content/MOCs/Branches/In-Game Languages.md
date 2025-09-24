@@ -29,15 +29,15 @@ sort file.mtime desc
 - [[MOCs/Branches/In-Game Languages.md|In-Game Languages]]
 - [[index.md|index]]
 - [[MOCs/Trunk/Campaign MOC.md|Campaign MOC]]
-- [[Notes/Halfing Alencanto.md|Halfing Alencanto]]
-- [[Notes/Dragon Kajin-gon.md|Dragon Kajin-gon]]
-- [[Notes/Koðak Issegrimal.md|Koðak Issegrimal]]
-- [[Notes/Goliath Yazyk.md|Goliath Yazyk]]
-- [[Notes/Dwarvish Steinsprache.md|Dwarvish Steinsprache]]
-- [[Notes/Human Quetzaltlahtolli.md|Human Quetzaltlahtolli]]
-- [[Notes/Elvish Antiquivox.md|Elvish Antiquivox]]
 - [[Notes/Orcish Khyam.md|Orcish Khyam]]
+- [[Notes/Koðak Issegrimal.md|Koðak Issegrimal]]
 - [[Notes/Jampyul Khyamde.md|Jampyul Khyamde]]
+- [[Notes/Human Quetzaltlahtolli.md|Human Quetzaltlahtolli]]
+- [[Notes/Halfing Alencanto.md|Halfing Alencanto]]
+- [[Notes/Goliath Yazyk.md|Goliath Yazyk]]
+- [[Notes/Elvish Antiquivox.md|Elvish Antiquivox]]
+- [[Notes/Dwarvish Steinsprache.md|Dwarvish Steinsprache]]
+- [[Notes/Dragon Kajin-gon.md|Dragon Kajin-gon]]
 
 %% DATAVIEW_PUBLISHER: end %%
 

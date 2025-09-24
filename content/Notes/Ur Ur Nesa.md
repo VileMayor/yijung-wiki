@@ -25,6 +25,7 @@ draft: false
 > Home of the Ur Ur || Tibetan | Ur-Ur onomatopoeia for Goblins
 ## Overview
 The homeland of the Nesan Goblins, who have a great deal of internal independence but are still technically part of the Jampyul empire and require approval from the Imperatrix Lux for a great number of foreign matters, most especially in the establishment of new trade relationships with entities outside the Jampyul Empire.
+# TBD
 ## Description
 A short evocative paragraph describing the location at a glance.
 

@@ -42,5 +42,8 @@ if (!chosenHeading) throw new Error("No heading selected.");
 const safeHeading = chosenHeading.replace(/]]/g, "] ]");  
 const linkTarget = fileBase + "#" + safeHeading;
 
-tR += '```dataview\n'; tR += 'list from ""\n'; tR += 'where contains(file.outlinks, [[' + linkTarget + ']])\n'; tR += 'sort file.mtime desc\n'; tR += '```';  
+tR += '%% DATAVIEW_PUBLISHER: start\n';
+tR += '```dataview\n'; tR += 'list from ""\n'; tR += 'where contains(file.outlinks, [[' + linkTarget + ']])\n'; tR += 'sort file.mtime desc\n'; tR += '```\n';  
+tR += '%%\n';  
+tR += '%% DATAVIEW_PUBLISHER: end %%\n';
 %>

@@ -4,7 +4,8 @@ title: Den Chöton
 draft: false
 ---
 ###### Up: [[Multiverse MOC#**Planes**|Planes]] | [[index|Home Page]]
-# [[Den Chöton|Den Chöton]]
+# [[Den Chöton]]
+### Info
 > [!info]
 > - Type:           <!-- Material Plane / Inner Plane / Outer Plane / Demiplane -->  
 > - Dominant Theme: The [[God Realm]]
@@ -25,7 +26,8 @@ draft: false
 > Faithful Realm || Tibetan
 
 This is the plane in which our campaign is set
-## **Worlds**
+## Locations List
+### **Worlds**
 Actual Planets
 %% DATAVIEW_PUBLISHER: start
 ```dataview
@@ -35,14 +37,10 @@ SORT file.name ASC
 ```
 %%
 
-- [[Notes/Elven Homeworld.md|Elven Homeworld]]
-- [[MOCs/Trunk/Multiverse MOC.md|Multiverse MOC]]
 - [[MOCs/Branches/Salbé.md|Salbé]]
 
 %% DATAVIEW_PUBLISHER: end %%
-
-
-### *Continents and Regions*
+#### *Continents and Regions*
 From All Worlds
 %% DATAVIEW_PUBLISHER: start
 ```dataview
@@ -60,8 +58,7 @@ sort file.name asc
 - [[Notes/Yolsa.md|Yolsa]]
 
 %% DATAVIEW_PUBLISHER: end %%
-
-#### *Cities*
+##### *Cities*
 From all worlds
 %% DATAVIEW_PUBLISHER: start
 ```dataview
@@ -72,6 +69,7 @@ SORT file.name ASC
 %%
 
 - [[Notes/Domusargha.md|Domusargha]]
+- [[Notes/Elf.md|Elf]]
 - [[Notes/Gyaltson-ne.md|Gyaltson-ne]]
 - [[Notes/Jamrig-ne.md|Jamrig-ne]]
 - [[Notes/Karmin-me.md|Karmin-me]]
@@ -83,9 +81,7 @@ SORT file.name ASC
 - [[Notes/Ur Ur Nesa.md|Ur Ur Nesa]]
 
 %% DATAVIEW_PUBLISHER: end %%
-
-
-##### *Places of Interest*
+###### *Places of Interest*
 Other Locations
 %% DATAVIEW_PUBLISHER: start
 ```dataview
@@ -102,8 +98,6 @@ SORT file.name ASC
 - [[Notes/The Prudish Mermaid.md|The Prudish Mermaid]]
 
 %% DATAVIEW_PUBLISHER: end %%
-
-
 ## Magic
 ![[Den Chöton Magical Theory#Overview]]
 ## Travel & Access
