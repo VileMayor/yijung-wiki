@@ -1,3 +1,7 @@
+---
+title: Tortle
+draft: false
+---
 ###### Up: [[People MOC#Non-Playable Species|Non-Playable Species]]
 # [[Tortle]]
 ---

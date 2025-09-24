@@ -1,3 +1,7 @@
+---
+title: In-Game Languages
+draft: false
+---
 ###### Up: [[index|Home Page]] | [[Campaign MOC]]
 ---
 # [[In-Game Languages]]

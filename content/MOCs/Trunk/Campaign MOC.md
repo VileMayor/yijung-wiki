@@ -1,3 +1,7 @@
+---
+title: Campaign MOC
+draft: false
+---
 ###### Up: [[index|Home Page]]
 ---
 # [[Campaign MOC]]

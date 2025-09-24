@@ -1,6 +1,8 @@
 ---
 aliases:
   - Salbé
+title: Salbé
+draft: false
 ---
 ###### Up: [[Den Chöton#Worlds]]
 # [[Salbé|Salbé]]

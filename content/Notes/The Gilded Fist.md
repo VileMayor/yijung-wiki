@@ -1,3 +1,7 @@
+---
+title: The Gilded Fist
+draft: false
+---
 ###### Up: [[Groups MOC#TBA|Insert Here]] | [[Development Stages MOC]]
 # [[The Gilded Fist]]
 > [!info]

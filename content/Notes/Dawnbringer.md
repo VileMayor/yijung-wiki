@@ -1,3 +1,7 @@
+---
+title: Dawnbringer
+draft: false
+---
 ###### Up: [[People MOC#Legendary NPCs|Legendary NPCs]] | [[Grizeldriel Öbeb]] | [[Oscario]]
 
 # [[Dawnbringer]]

@@ -1,3 +1,7 @@
+---
+title: Grizwald’s “Heroes”-for-Hire
+draft: false
+---
 ###### Up: [[Groups MOC#Guilds|Guilds]] | [[Development Stages MOC]]
 # [[Grizwald’s “Heroes”-for-Hire]]
 > [!info]

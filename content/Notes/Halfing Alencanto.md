@@ -1,6 +1,8 @@
 ---
 aliases:
   - Alencanto
+title: Halfing Alencanto
+draft: false
 ---
 ###### Up: [[In-Game Languages]] | [[Development Stages MOC]]
 # [[Halfing Alencanto]]

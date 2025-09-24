@@ -1,6 +1,8 @@
 ---
 aliases:
   - Palimpsest
+title: Palimpsest (Theme)
+draft: false
 ---
 ###### Up: [[Themes & Inspirations]]
 

@@ -1,3 +1,7 @@
+---
+title: Jamrig-ne
+draft: false
+---
 ###### Up: [[Den Chöton#Cities|Cities]] | [[Development Stages MOC]]
 # [[Jamrig-ne]]
 > [!info]

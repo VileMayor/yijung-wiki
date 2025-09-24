@@ -1,3 +1,7 @@
+---
+title: The Prudish Mermaid
+draft: false
+---
 ###### Up: [[Den Chöton#Places of Interest|Places of Interest]] | [[Grizwald’s “Heroes”-for-Hire]] | [[Development Stages MOC]]
 # [[The Prudish Mermaid]]
 > [!info]

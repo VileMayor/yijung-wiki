@@ -1,6 +1,8 @@
 ---
 aliases:
   - Resax Faber
+title: Schmiedevater
+draft: false
 ---
 ###### Up: [[People MOC#Deities|Deities]] | [[Development Stages MOC]] 
 

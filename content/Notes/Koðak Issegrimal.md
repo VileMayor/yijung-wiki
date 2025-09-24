@@ -1,6 +1,8 @@
 ---
 aliases:
   - Issegrimal
+title: Koðak Issegrimal
+draft: false
 ---
 ###### Up: [[In-Game Languages]]
 # [[Koðak Issegrimal]]

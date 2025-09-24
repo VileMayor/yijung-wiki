@@ -1,3 +1,7 @@
+---
+title: Lonesome Howls
+draft: false
+---
 ###### Up: [[Campaign MOC#Contracts|Contracts]]
 # [[Lonesome Howls]]
 ---

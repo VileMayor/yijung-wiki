@@ -1,3 +1,7 @@
+---
+title: Yijung
+draft: false
+---
 ###### Up: [[Multiverse MOC]]
 
 # [[Yijung]]

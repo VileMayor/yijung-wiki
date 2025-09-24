@@ -1,3 +1,7 @@
+---
+title: Gyaltson-ne
+draft: false
+---
 ###### Up: [[Den Chöton#Cities|Cities]] | [[Dawnbringer's Jewels#Gyaltson-ne - Orc Jewel|Dawnbringer's Jewel]]
 # [[Gyaltson-ne]]
 > [!info]

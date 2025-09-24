@@ -1,6 +1,8 @@
 ---
 aliases:
   - Ringdorje-nam
+title: Frost Orc Tribes
+draft: false
 ---
 ###### Up: [[Groups MOC#Governments|Governments]] | [[Frostlands]] | [[Development Stages MOC]]
 # [[Frost Orc Tribes]]

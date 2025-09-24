@@ -1,3 +1,7 @@
+---
+title: Fae Plane
+draft: false
+---
 ###### Up: [[Multiverse MOC#**Planes**|Planes]] | [[index|Home Page]]
 # [[Fae Plane]]
 ## Overview

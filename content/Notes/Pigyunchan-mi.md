@@ -1,6 +1,8 @@
 ---
 aliases:
   - South Yolsa Mountains
+title: Pigyunchan-mi
+draft: false
 ---
 ###### Up: [[Den Chöton#Continents and Regions|Continents and Regions]] | [[Development Stages MOC]]
 # [[Pigyunchan-mi]]

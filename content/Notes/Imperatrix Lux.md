@@ -1,3 +1,7 @@
+---
+title: Imperatrix Lux
+draft: false
+---
 ###### Up: [[Groups MOC#Governmental Factions|Governmental Factions]] | [[Development Stages MOC]]
 # [[Imperatrix Lux]]
 > [!info]

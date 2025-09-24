@@ -1,3 +1,7 @@
+---
+title: People MOC
+draft: false
+---
 ###### Up: [[index|Home Page]]
 ## **Species**
 ### *Playable Species*

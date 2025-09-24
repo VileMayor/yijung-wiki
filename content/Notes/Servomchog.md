@@ -1,6 +1,8 @@
 ---
 aliases:
   - Ser-chö
+title: Servomchog
+draft: false
 ---
 ###### Up: [[People MOC#Incidental NPCs|Incidental NPCs]] | [[Development Stages MOC]] 
 

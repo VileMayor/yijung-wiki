@@ -1,6 +1,8 @@
 ---
 aliases:
   - Alignment
+title: Alignment MOC
+draft: false
 ---
 ###### Up: [[Campaign MOC#Mechanics|Mechanics]]
 

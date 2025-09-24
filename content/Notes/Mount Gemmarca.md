@@ -1,3 +1,7 @@
+---
+title: Mount Gemmarca
+draft: false
+---
 ###### Up: [[Den Chöton#Places of Interest|Places of Interest]] | [[Development Stages MOC]]
 # [[Mount Gemmarca]]
 > [!info]

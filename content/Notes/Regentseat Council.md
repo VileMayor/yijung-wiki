@@ -1,3 +1,7 @@
+---
+title: Regentseat Council
+draft: false
+---
 ###### Up: [[Groups MOC#Governmental Factions|Governmental Factions]] | [[Imperium Jampyul]] | [[Regentseat]]
 # [[Regentseat Council]]
 > [!info]

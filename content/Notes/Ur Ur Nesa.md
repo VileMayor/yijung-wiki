@@ -1,3 +1,7 @@
+---
+title: Ur Ur Nesa
+draft: false
+---
 ###### Up: [[Den Chöton#Cities|Cities]] | [[Development Stages MOC]]
 # [[Ur Ur Nesa]]
 > [!info]

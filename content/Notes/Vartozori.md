@@ -1,6 +1,8 @@
 ---
 aliases:
   - West Dömling Mountains
+title: Vartozori
+draft: false
 ---
 ###### Up: [[Den Chöton#Continents and Regions|Continents and Regions]] | [[Dömling]]
 # [[Vartozori]]

@@ -1,5 +1,7 @@
 ---
 aliases:
+title: Den Chöton
+draft: false
 ---
 ###### Up: [[Multiverse MOC#**Planes**|Planes]] | [[index|Home Page]]
 # [[Den Chöton|Den Chöton]]

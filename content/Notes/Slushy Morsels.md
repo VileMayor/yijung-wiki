@@ -1,3 +1,7 @@
+---
+title: Slushy Morsels
+draft: false
+---
 ###### Up: [[Campaign MOC#Contracts|Contracts]]
 # [[Slushy Morsels]]
 ---

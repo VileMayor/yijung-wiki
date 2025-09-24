@@ -1,3 +1,7 @@
+---
+title: House Tsönpal-me
+draft: false
+---
 ###### Up: [[Development Stages MOC]]
 # [[House Tsönpal-me]]
 ---

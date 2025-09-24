@@ -1,6 +1,8 @@
 ---
 aliases:
   - Goliath Jewel
+title: Ledozbir
+draft: false
 ---
 ###### Up: [[Den Chöton#Cities|Cities]] | [[Dawnbringer's Jewels#Ledozbir|Dawnbringer's Jewel]]
 # [[Ledozbir]]

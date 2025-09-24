@@ -1,3 +1,7 @@
+---
+title: Sprenga Tsokpa
+draft: false
+---
 ###### Up: [[People MOC#Deities|Deities]] | [[Calendar Pantheon]] | [[Calendar Lux]]
 
 # [[Sprenga Tsokpa]]

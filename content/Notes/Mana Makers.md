@@ -1,3 +1,7 @@
+---
+title: Mana Makers
+draft: false
+---
 ###### Up: [[Groups MOC#Guilds|Guilds]]
 # [[Mana Makers]]
 > [!info]

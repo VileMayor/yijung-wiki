@@ -1,3 +1,7 @@
+---
+title: Samotniy
+draft: false
+---
 ###### Up: [[People MOC#Deities|Deities]] | [[Development Stages MOC]] 
 
 # [[Samotniy]]

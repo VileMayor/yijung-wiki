@@ -1,4 +1,4 @@
-###### Up: [[People MOC#Incidental NPCs|Incidental NPCs]] | [[Development Stages MOC]] 
+E###### Up: [[People MOC#Incidental NPCs|Incidental NPCs]] | [[Development Stages MOC]] 
 
 # [[Verbünder Brok Stonebeard]]
 > [!info]

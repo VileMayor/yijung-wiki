@@ -1,3 +1,7 @@
+---
+title: Frostlands
+draft: false
+---
 ###### Up: [[Den Chöton#Continents and Regions|Continents and Regions]] | [[Development Stages MOC]]
 # [[Frostlands]]
 > [!info]

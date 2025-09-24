@@ -1,6 +1,8 @@
 ---
 aliases:
   - Human/Verdikar Jewel
+title: Rangnunc
+draft: false
 ---
 ###### Up: [[Den Chöton#Cities|Cities]] | [[Dawnbringer's Jewels#Rangnunc - Verdikar/Human Jewel|Dawnbringer's Jewel]]
 # [[Rangnunc]]

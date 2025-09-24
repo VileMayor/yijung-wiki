@@ -1,3 +1,7 @@
+---
+title: Tel Ling
+draft: false
+---
 ###### Up: [[Den Chöton#Cities|Cities]] | [[Development Stages MOC]]
 # [[Tel Ling]]
 > [!info]

@@ -1,6 +1,8 @@
 ---
 aliases:
   - Kharlo
+title: Kharub Lodor
+draft: false
 ---
 ###### Up: [[People MOC#Key NPCs|Key NPCs]] | [[Development Stages MOC]] 
 

@@ -1,3 +1,7 @@
+---
+title: Shellmo
+draft: false
+---
 ###### Up: [[People MOC#Key NPCs|Key NPCs]] | [[Players#**Joe**|Joe]] | [[Grizwald’s “Heroes”-for-Hire] | [[Mana Makers]] 
 
 # [[Shellmo]]

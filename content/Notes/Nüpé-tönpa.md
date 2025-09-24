@@ -1,3 +1,7 @@
+---
+title: Nüpé-tönpa
+draft: false
+---
 ###### Up: [[Den Chöton Magical Theory]]
 # [[Nüpé-tönpa]]
 ---

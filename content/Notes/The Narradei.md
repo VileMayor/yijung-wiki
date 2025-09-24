@@ -1,5 +1,7 @@
 ---
 aliases:
+title: The Narradei
+draft: false
 ---
 ###### Up: [[Groups MOC#Guilds|Guilds]]
 # [[The Narradei]]

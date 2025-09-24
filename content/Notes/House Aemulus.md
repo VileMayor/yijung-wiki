@@ -1,3 +1,7 @@
+---
+title: House Aemulus
+draft: false
+---
 ###### Up: [[Groups MOC#Governmental Factions|Governmental Factions]] | [[Regentseat Council]]
 # [[House Aemulus]]
 > [!info]

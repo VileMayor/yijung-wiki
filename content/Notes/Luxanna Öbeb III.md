@@ -1,6 +1,8 @@
 ---
 aliases:
   - Current Imperatrix Lux
+title: Luxanna Öbeb III
+draft: false
 ---
 ###### Up: [[People MOC#Key NPCs|Key NPCs]] | [[Development Stages MOC]] 
 

@@ -1,6 +1,8 @@
 ---
 aliases:
   - Dawnbringer's Jewel
+title: Dawnbringer's Jewels
+draft: false
 ---
 ###### Up: [[Den Chöton#Places of Interest|Places of Interest]]
 # [[Dawnbringer's Jewels]]

@@ -1,6 +1,8 @@
 ---
 aliases:
   - North Yolsa Mountains
+title: Snihovyhory
+draft: false
 ---
 ###### Up: [[Den Chöton#Continents and Regions|Continents and Regions]] | [[Development Stages MOC]]
 # [[Snihovyhory]]

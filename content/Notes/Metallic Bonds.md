@@ -1,3 +1,7 @@
+---
+title: Metallic Bonds
+draft: false
+---
 ###### Up: [[Campaign MOC#Contracts|Contracts]]
 # [[Metallic Bonds]]
 ---

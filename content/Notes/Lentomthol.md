@@ -1,6 +1,8 @@
 ---
 aliases:
   - Time Pocket
+title: Lentomthol
+draft: false
 ---
 ###### Up: [[Multiverse MOC#*Sub-Plane*|Sub-Plane]] | [[Den Chöton#Places of Interest|Place of Interest]] | [[Domusargha]]
 # [[Lentomthol]]

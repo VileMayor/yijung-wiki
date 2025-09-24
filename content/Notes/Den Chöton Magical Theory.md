@@ -1,3 +1,7 @@
+---
+title: Den Chöton Magical Theory
+draft: false
+---
 ###### Up: [[content/index|Home Page]]
 # Den Chöton Magical Theory
 ---

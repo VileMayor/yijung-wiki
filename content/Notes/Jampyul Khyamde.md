@@ -1,6 +1,8 @@
 ---
 aliases:
   - Khyamde
+title: Jampyul Khyamde
+draft: false
 ---
 ###### Up: [[In-Game Languages]]
 # [[Jampyul Khyamde]]

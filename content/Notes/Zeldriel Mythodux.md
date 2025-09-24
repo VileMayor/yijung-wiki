@@ -1,6 +1,8 @@
 ---
 aliases:
   - Zelda
+title: Zeldriel Mythodux
+draft: false
 ---
 ###### Up: [[People MOC#Key NPCs|Key NPCs]] | [[Academy Luminaria]] | [[The Narradei]] | [[The Manaseekers]]
 

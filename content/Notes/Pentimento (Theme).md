@@ -1,8 +1,10 @@
 ---
 aliases:
   - Pentimento
+title: Pentimento (Theme)
+draft: false
 ---
-###### Up: [[Themes & Inspirations]]
+E###### Up: [[Themes & Inspirations]]
 # [[Pentimento (Theme)|Pentimento]]
 ---
 >  a visible trace of earlier painting beneath a layer or layers of paint on a canvas.

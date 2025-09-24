@@ -2,6 +2,8 @@
 aliases:
   - Source of Yijung
   - Omnisemdrang
+title: Khamdak Gyurmé
+draft: false
 ---
 ###### Up: [[People MOC#Deities|Deities]] | [[Development Stages MOC#**Requires Consideration**|Requires Consideration]]
 

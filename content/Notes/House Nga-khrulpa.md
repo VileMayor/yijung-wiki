@@ -1,6 +1,8 @@
 ---
 aliases:
   - Clan Nga-khrulpa
+title: House Nga-khrulpa
+draft: false
 ---
 ###### Up: [[Groups MOC#Governmental Factions|Governmental Factions]] | [[Regentseat Council]]
 # [[House Nga-khrulpa]]

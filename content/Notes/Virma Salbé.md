@@ -1,3 +1,7 @@
+---
+title: Virma Salbé
+draft: false
+---
 ###### Up: [[People MOC#Deities|Deities]] | [[Calendar Pantheon]] | [[Calendar Lux]]
 
 # [[Virma Salbé]]

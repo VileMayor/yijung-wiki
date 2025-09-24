@@ -2,6 +2,8 @@
 aliases:
   - The Firemother
   - Mikyé-ma
+title: Tarmé-mo
+draft: false
 ---
 ###### Up: [[People MOC#Legendary NPCs|Legendary NPCs]] | [[Development Stages MOC]] 
 ## [[Tarmé-mo]]

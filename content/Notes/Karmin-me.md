@@ -1,6 +1,8 @@
 ---
 aliases:
   - Karmin-me Tribe
+title: Karmin-me
+draft: false
 ---
 ###### Up: [[Den Chöton#Cities|Cities]] | [[Groups MOC#Governmental Factions|Governmental Factions]] | [[Development Stages MOC]]
 # [[Karmin-me]]

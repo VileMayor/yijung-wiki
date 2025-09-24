@@ -1,3 +1,7 @@
+---
+title: Dragon Kajin-gon
+draft: false
+---
 ###### Up: [[In-Game Languages]] 
 # [[Dragon Kajin-gon]]
 ---

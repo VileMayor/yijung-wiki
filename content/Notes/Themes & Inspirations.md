@@ -1,3 +1,7 @@
+---
+title: Themes & Inspirations
+draft: false
+---
 ###### Up: [[index|Home Page]]
 # Themes
 ---

@@ -1,3 +1,7 @@
+---
+title: Lumikar
+draft: false
+---
 ###### Up: [[People MOC#Deities|Deities]] | [[Calendar Pantheon]] | [[Calendar Lux]]
 
 # [[Lumikar]]

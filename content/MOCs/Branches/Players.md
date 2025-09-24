@@ -1,3 +1,7 @@
+---
+title: Players
+draft: false
+---
 ###### Up: [[index|Home Page]]
 ---
 # [[Players]]

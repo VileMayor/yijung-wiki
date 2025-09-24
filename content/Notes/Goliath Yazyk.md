@@ -1,6 +1,8 @@
 ---
 aliases:
   - Yazyk
+title: Goliath Yazyk
+draft: false
 ---
 ###### Up: [[In-Game Languages]]
 # [[Goliath Yazyk|Yazyk]]

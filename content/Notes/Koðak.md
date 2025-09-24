@@ -1,3 +1,7 @@
+---
+title: Koðak
+draft: false
+---
 ###### Up: [[People MOC#Playable Species]] | [[Development Stages MOC]]
 # Koðak
 > [!info]

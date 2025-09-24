@@ -2,6 +2,8 @@
 aliases:
   - Ur Ur
   - Goblins
+title: Goblin
+draft: false
 ---
 ###### Up: [[People MOC#Playable Species|Playable Species]] | [[Development Stages MOC]]
 # [[Goblin]]

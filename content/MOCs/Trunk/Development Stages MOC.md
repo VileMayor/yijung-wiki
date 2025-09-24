@@ -1,3 +1,7 @@
+---
+title: Development Stages MOC
+draft: false
+---
 ###### Up: [[index|Home Page]]
 
 This page includes things that I still need to update or have yet to be assigned to a more appropriate MOC.

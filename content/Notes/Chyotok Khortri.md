@@ -1,3 +1,7 @@
+---
+title: Chyotok Khortri
+draft: false
+---
 ###### Up: [[People MOC#Key NPCs|Key NPCs]] | [[Development Stages MOC#Room to Left to Grow]] 
 
 # [[Chyotok Khortri]]

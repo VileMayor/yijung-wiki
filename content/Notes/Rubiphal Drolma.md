@@ -1,3 +1,7 @@
+---
+title: Rubiphal Drolma
+draft: false
+---
 ###### Up: [[People MOC#Deities|Deities]] | [[Calendar Pantheon]] | [[Calendar Lux]]
 
 # [[Rubiphal Drolma]]

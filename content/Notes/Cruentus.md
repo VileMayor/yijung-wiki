@@ -1,4 +1,6 @@
 ---
+title: Cruentus
+draft: false
 aliases:
   - Trakgö-pa
 ---

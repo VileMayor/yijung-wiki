@@ -1,3 +1,7 @@
+---
+title: Tellus
+draft: false
+---
 ###### Up: [[People MOC#Deities|Deities]] | [[Elven Pantheon]] | [[Tel Ling]] | [[Tarmé-mo|Mikyé-ma]] | [[Development Stages MOC]]
 
 ## Tellus

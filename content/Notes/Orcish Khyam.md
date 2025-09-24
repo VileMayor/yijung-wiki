@@ -1,6 +1,8 @@
 ---
 aliases:
   - Khyam
+title: Orcish Khyam
+draft: false
 ---
 ###### Up: [[In-Game Languages]]
 # [[Orcish Khyam]]

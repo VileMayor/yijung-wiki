@@ -1,3 +1,7 @@
+---
+title: Deifractoria
+draft: false
+---
 ###### Up: [[Groups MOC#Guilds|Guilds]] | [[The Narradei]]
 # [[Deifractoria]]
 > [!info]

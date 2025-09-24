@@ -1,3 +1,7 @@
+---
+title: Calendar Lux
+draft: false
+---
 ###### Up: [[content/index|Home Page]]
 # [[Calendar Lux]]
 ---

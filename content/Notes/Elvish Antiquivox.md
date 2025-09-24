@@ -1,6 +1,8 @@
 ---
 aliases:
   - Antiquivox
+title: Elvish Antiquivox
+draft: false
 ---
 ###### Up: [[In-Game Languages]]
 # [[Elvish Antiquivox|Antiquivox]]

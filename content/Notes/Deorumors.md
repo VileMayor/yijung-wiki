@@ -1,3 +1,7 @@
+---
+title: Deorumors
+draft: false
+---
 ###### Up: [[People MOC#Deities|Deities]] | [[Development Stages MOC]] 
 
 ## [[Deorumors]]

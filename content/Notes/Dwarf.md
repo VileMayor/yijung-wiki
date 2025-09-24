@@ -2,6 +2,8 @@
 aliases:
   - Vaterliebwerk
   - Dwarves
+title: Dwarf
+draft: false
 ---
 ###### Up: [[People MOC#Playable Species|Playable Species]] | [[Development Stages MOC]]
 # [[Dwarf]]

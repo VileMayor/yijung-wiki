@@ -1,6 +1,8 @@
 ---
 aliases:
   - The Imperium
+title: Imperium Jampyul
+draft: false
 ---
 ###### Up: [[Groups MOC#Governments|Governments]] | [[Development Stages MOC]]
 # [[Imperium Jampyul]]

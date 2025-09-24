@@ -1,3 +1,7 @@
+---
+title: Regentseat
+draft: false
+---
 ###### Up: [[Den Chöton#Cities|Cities]] | [[Imperium Jampyul]]
 # [[Regentseat]]
 > [!info]

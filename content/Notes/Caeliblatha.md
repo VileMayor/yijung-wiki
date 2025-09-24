@@ -1,3 +1,7 @@
+---
+title: Caeliblatha
+draft: false
+---
 ###### Up: [[People MOC#Deities|Deities]] | [[Calendar Pantheon]] | [[Calendar Lux]]
 
 # [[Caeliblatha]]

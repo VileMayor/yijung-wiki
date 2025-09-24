@@ -1,6 +1,8 @@
 ---
 aliases:
   - Testudox
+title: Oscario
+draft: false
 ---
 ###### Up: [[People MOC#Legendary NPCs|Legendary NPCs]] | [[The Narradei]] | [[Testudox University]] | [[Deifractoria]] | [[Mana Makers]]
 

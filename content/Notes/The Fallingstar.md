@@ -1,3 +1,7 @@
+---
+title: The Fallingstar
+draft: false
+---
 ###### Up: [[People MOC#Legendary NPCs|Legendary NPCs]] | [[Development Stages MOC]] 
 
 ## [[The Fallingstar]]

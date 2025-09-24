@@ -1,6 +1,8 @@
 ---
 aliases:
   - Frostlands Barrier
+title: Glaci-khandara
+draft: false
 ---
 ###### Up: [[Den Chöton#Places of Interest|Places of Interest]] | [[Campaign MOC#Environmental Effects|Environmental Effects]]
 

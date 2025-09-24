@@ -1,6 +1,8 @@
 ---
 aliases:
   - Human Jewel
+title: Tlamanal
+draft: false
 ---
 ###### Up: [[Den Chöton#Cities|Cities]] | [[Dawnbringer's Jewels#Tlamanal|Dawnbringer's Jewel]]
 # [[Tlamanal]]

@@ -1,6 +1,8 @@
 ---
 aliases:
   - Fire-Heart
+title: Mé Khok
+draft: false
 ---
 ###### Up: [[Campaign MOC#Magic Items|Magic Items]]
 

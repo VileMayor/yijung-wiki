@@ -1,6 +1,8 @@
 ---
 aliases:
   - God Mechanics
+title: Lhachönomics
+draft: false
 ---
 ###### Up: [[Campaign MOC#Mechanics|Mechanics]]
 # [[Lhachönomics]]

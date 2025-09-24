@@ -1,3 +1,7 @@
+---
+title: Damtsig-pa
+draft: false
+---
 ###### Up: [[Den Chöton Magical Theory]]
 # [[Damtsig-pa]]
 ---

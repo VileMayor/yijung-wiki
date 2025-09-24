@@ -3,6 +3,8 @@ aliases:
   - Dawnbringer
   - The Fallingstar
   - Grizelda
+title: Grizeldriel Öbeb
+draft: false
 ---
 ###### Up: [[People MOC#Legendary NPCs|Legendary NPCs]] | [[Imperium Jampyul]] 
 

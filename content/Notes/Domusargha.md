@@ -1,6 +1,8 @@
 ---
 aliases:
   - Elf/Verdikar Jewel
+title: Domusargha
+draft: false
 ---
 ###### Up: [[Den Chöton#Cities|Cities]] | [[Development Stages MOC]]
 # [[Domusargha]]

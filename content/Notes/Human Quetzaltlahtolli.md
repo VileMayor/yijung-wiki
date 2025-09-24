@@ -1,6 +1,8 @@
 ---
 aliases:
   - Quetzaltlahtolli
+title: Human Quetzaltlahtolli
+draft: false
 ---
 ###### Up: [[In-Game Languages]]
 # [[Human Quetzaltlahtolli|Quetzaltlahtolli]]

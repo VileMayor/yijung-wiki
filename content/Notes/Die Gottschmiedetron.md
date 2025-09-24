@@ -1,3 +1,7 @@
+---
+title: Die Gottschmiedetron
+draft: false
+---
 ###### Up: [[Groups MOC#Governments|Governments]] | [[Development Stages MOC]]
 # [[Die Gottschmiedetron]]
 > [!info]
