@@ -19,11 +19,20 @@ The alignments found on this vault are not what would show up while [[Detect Goo
 ## Good <---> Evil Spectrum
 ### Good
 #### Lawful Good
+
+%% DATAVIEW_PUBLISHER: start
 ```dataview
 list from ""
 where contains(file.outlinks, [[Alignment MOC#Lawful Good]])
 sort file.mtime desc
 ```
+%%
+
+- [[content/Notes/Tellus.md|Tellus]]
+- [[content/Notes/Schmiedevater.md|Schmiedevater]]
+
+%% DATAVIEW_PUBLISHER: end %%
+
 #### Neutral Good
 ```dataview
 list from ""
