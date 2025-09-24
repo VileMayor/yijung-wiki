@@ -1,4 +1,4 @@
-###### **Up:** [[Home Page]]
+###### Up: [[index|Home Page]]
 ## **Species**
 ### *Playable Species*
 ```dataview

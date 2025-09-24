@@ -1,4 +1,4 @@
-###### up:: [[Home Page]]
+###### up:: [[index|Home Page]]
 
 # [[Yijung]]
 ---

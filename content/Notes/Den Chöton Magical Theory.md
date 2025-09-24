@@ -1,4 +1,4 @@
-###### Up: [[Home Page]]
+###### Up: [[content/index|Home Page]]
 # Den Chöton Magical Theory
 ---
 ## Overview

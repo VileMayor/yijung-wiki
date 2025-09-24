@@ -24,12 +24,12 @@ The alignments found on this vault are not what would show up while [[Detect Goo
 ```dataview
 list from ""
 where contains(file.outlinks, [[Alignment MOC#Lawful Good]])
-sort file.mtime desc
+SORT file.name ASC
 ```
 %%
 
-- [[content/Notes/Tellus.md|Tellus]]
-- [[content/Notes/Schmiedevater.md|Schmiedevater]]
+- [[Notes/Schmiedevater.md|Schmiedevater]]
+- [[Notes/Tellus.md|Tellus]]
 
 %% DATAVIEW_PUBLISHER: end %%
 
@@ -38,11 +38,11 @@ sort file.mtime desc
 ```dataview
 list from ""
 where contains(file.outlinks, [[Alignment MOC#Neutral Good]])
-sort file.mtime desc
+SORT file.name ASC
 ```
 %%
 
-- [[content/Notes/Koðak.md|Koðak]]
+- [[Notes/Koðak.md|Koðak]]
 
 %% DATAVIEW_PUBLISHER: end %%
 #### Chaotic Good
@@ -51,12 +51,12 @@ sort file.mtime desc
 ```dataview
 list from ""
 where contains(file.outlinks, [[Alignment MOC#Chaotic Good]])
-sort file.mtime desc
+SORT file.name ASC
 ```
 %%
 
-- [[content/Notes/Tarmé-mo.md|Tarmé-mo]]
-- [[content/Notes/Oscario.md|Oscario]]
+- [[Notes/Oscario.md|Oscario]]
+- [[Notes/Tarmé-mo.md|Tarmé-mo]]
 
 %% DATAVIEW_PUBLISHER: end %%
 
@@ -67,11 +67,11 @@ sort file.mtime desc
 ```dataview
 list from ""
 where contains(file.outlinks, [[Alignment MOC#Lawful Neutral]])
-sort file.mtime desc
+SORT file.name ASC
 ```
 %%
 
-- [[content/Notes/Deorumors.md|Deorumors]]
+- [[Notes/Deorumors.md|Deorumors]]
 
 %% DATAVIEW_PUBLISHER: end %%
 #### True Neutral
@@ -79,14 +79,14 @@ sort file.mtime desc
 ```dataview
 list from ""
 where contains(file.outlinks, [[Alignment MOC#True Neutral]])
-sort file.mtime desc
+SORT file.name ASC
 ```
 %%
 
-- [[content/Notes/Grizwadriel Goðsmiðr.md|Grizwadriel Goðsmiðr]]
-- [[content/Notes/Gemmiger.md|Gemmiger]]
-- [[content/Notes/Kharub Lodor.md|Kharub Lodor]]
-- [[content/Notes/Grizeldriel Öbeb.md|Grizeldriel Öbeb]]
+- [[Notes/Gemmiger.md|Gemmiger]]
+- [[Notes/Grizeldriel Öbeb.md|Grizeldriel Öbeb]]
+- [[Notes/Grizwadriel Goðsmiðr.md|Grizwadriel Goðsmiðr]]
+- [[Notes/Kharub Lodor.md|Kharub Lodor]]
 
 %% DATAVIEW_PUBLISHER: end %%
 #### Chaotic Neutral
@@ -94,12 +94,12 @@ sort file.mtime desc
 ```dataview
 list from ""
 where contains(file.outlinks, [[Alignment MOC#Chaotic Neutral]])
-sort file.mtime desc
+SORT file.name ASC
 ```
 %%
 
-- [[content/Notes/Chyotok Khortri.md|Chyotok Khortri]]
-- [[content/Notes/Mukha Dekyi.md|Mukha Dekyi]]
+- [[Notes/Chyotok Khortri.md|Chyotok Khortri]]
+- [[Notes/Mukha Dekyi.md|Mukha Dekyi]]
 
 %% DATAVIEW_PUBLISHER: end %%
 
@@ -109,11 +109,11 @@ sort file.mtime desc
 ```dataview
 list from ""
 where contains(file.outlinks, [[Alignment MOC#Lawful Evil]])
-sort file.mtime desc
+SORT file.name ASC
 ```
 %%
 
-- [[content/Notes/Zeldriel Mythodux.md|Zeldriel Mythodux]]
+- [[Notes/Zeldriel Mythodux.md|Zeldriel Mythodux]]
 
 %% DATAVIEW_PUBLISHER: end %%
 #### Neutral Evil
@@ -121,7 +121,7 @@ sort file.mtime desc
 ```dataview
 list from ""
 where contains(file.outlinks, [[Alignment MOC#Neutral Evil]])
-sort file.mtime desc
+SORT file.name ASC
 ```
 %%
 
@@ -134,11 +134,11 @@ sort file.mtime desc
 ```dataview
 list from ""
 where contains(file.outlinks, [[Alignment MOC#Chaotic Evil]])
-sort file.mtime desc
+SORT file.name ASC
 ```
 %%
 
-- [[content/Notes/Cruentus.md|Cruentus]]
+- [[Notes/Cruentus.md|Cruentus]]
 
 %% DATAVIEW_PUBLISHER: end %%
 
@@ -149,12 +149,12 @@ sort file.mtime desc
 ```dataview
 list from ""
 where contains(file.outlinks, [[Alignment MOC#Lawful Good]])
-sort file.mtime desc
+SORT file.name ASC
 ```
 %%
 
-- [[content/Notes/Tellus.md|Tellus]]
-- [[content/Notes/Schmiedevater.md|Schmiedevater]]
+- [[Notes/Schmiedevater.md|Schmiedevater]]
+- [[Notes/Tellus.md|Tellus]]
 
 %% DATAVIEW_PUBLISHER: end %%
 #### Lawful Neutral
@@ -162,11 +162,11 @@ sort file.mtime desc
 ```dataview
 list from ""
 where contains(file.outlinks, [[Alignment MOC#Lawful Neutral]])
-sort file.mtime desc
+SORT file.name ASC
 ```
 %%
 
-- [[content/Notes/Deorumors.md|Deorumors]]
+- [[Notes/Deorumors.md|Deorumors]]
 
 %% DATAVIEW_PUBLISHER: end %%
 #### Lawful Evil
@@ -174,11 +174,11 @@ sort file.mtime desc
 ```dataview
 list from ""
 where contains(file.outlinks, [[Alignment MOC#Lawful Evil]])
-sort file.mtime desc
+SORT file.name ASC
 ```
 %%
 
-- [[content/Notes/Zeldriel Mythodux.md|Zeldriel Mythodux]]
+- [[Notes/Zeldriel Mythodux.md|Zeldriel Mythodux]]
 
 %% DATAVIEW_PUBLISHER: end %%
 ### Neutral
@@ -187,11 +187,11 @@ sort file.mtime desc
 ```dataview
 list from ""
 where contains(file.outlinks, [[Alignment MOC#Neutral Good]])
-sort file.mtime desc
+SORT file.name ASC
 ```
 %%
 
-- [[content/Notes/Koðak.md|Koðak]]
+- [[Notes/Koðak.md|Koðak]]
 
 %% DATAVIEW_PUBLISHER: end %%
 #### True Neutral
@@ -199,14 +199,14 @@ sort file.mtime desc
 ```dataview
 list from ""
 where contains(file.outlinks, [[Alignment MOC#True Neutral]])
-sort file.mtime desc
+SORT file.name ASC
 ```
 %%
 
-- [[content/Notes/Grizwadriel Goðsmiðr.md|Grizwadriel Goðsmiðr]]
-- [[content/Notes/Gemmiger.md|Gemmiger]]
-- [[content/Notes/Kharub Lodor.md|Kharub Lodor]]
-- [[content/Notes/Grizeldriel Öbeb.md|Grizeldriel Öbeb]]
+- [[Notes/Gemmiger.md|Gemmiger]]
+- [[Notes/Grizeldriel Öbeb.md|Grizeldriel Öbeb]]
+- [[Notes/Grizwadriel Goðsmiðr.md|Grizwadriel Goðsmiðr]]
+- [[Notes/Kharub Lodor.md|Kharub Lodor]]
 
 %% DATAVIEW_PUBLISHER: end %%
 #### Neutral Evil
@@ -214,7 +214,7 @@ sort file.mtime desc
 ```dataview
 list from ""
 where contains(file.outlinks, [[Alignment MOC#Neutral Evil]])
-sort file.mtime desc
+SORT file.name ASC
 ```
 %%
 
@@ -227,12 +227,12 @@ sort file.mtime desc
 ```dataview
 list from ""
 where contains(file.outlinks, [[Alignment MOC#Chaotic Good]])
-sort file.mtime desc
+SORT file.name ASC
 ```
 %%
 
-- [[content/Notes/Tarmé-mo.md|Tarmé-mo]]
-- [[content/Notes/Oscario.md|Oscario]]
+- [[Notes/Oscario.md|Oscario]]
+- [[Notes/Tarmé-mo.md|Tarmé-mo]]
 
 %% DATAVIEW_PUBLISHER: end %%
 #### Chaotic Neutral
@@ -240,12 +240,12 @@ sort file.mtime desc
 ```dataview
 list from ""
 where contains(file.outlinks, [[Alignment MOC#Chaotic Neutral]])
-sort file.mtime desc
+SORT file.name ASC
 ```
 %%
 
-- [[content/Notes/Chyotok Khortri.md|Chyotok Khortri]]
-- [[content/Notes/Mukha Dekyi.md|Mukha Dekyi]]
+- [[Notes/Chyotok Khortri.md|Chyotok Khortri]]
+- [[Notes/Mukha Dekyi.md|Mukha Dekyi]]
 
 %% DATAVIEW_PUBLISHER: end %%
 #### Chaotic Evil
@@ -253,10 +253,10 @@ sort file.mtime desc
 ```dataview
 list from ""
 where contains(file.outlinks, [[Alignment MOC#Chaotic Evil]])
-sort file.mtime desc
+SORT file.name ASC
 ```
 %%
 
-- [[content/Notes/Cruentus.md|Cruentus]]
+- [[Notes/Cruentus.md|Cruentus]]
 
 %% DATAVIEW_PUBLISHER: end %%

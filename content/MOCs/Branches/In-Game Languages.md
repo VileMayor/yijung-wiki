@@ -1,4 +1,4 @@
-###### Up: [[Home Page]] | [[Campaign MOC]]
+###### Up: [[index|Home Page]] | [[Campaign MOC]]
 ---
 # [[In-Game Languages]]
 ## List of Important Languages
@@ -14,11 +14,28 @@
 
 
 ## In-Links
+%% DATAVIEW_PUBLISHER: start
 ```dataview
 list from ""
 where contains(file.outlinks, [[In-Game Languages]])
 sort file.mtime desc
 ```
+%%
+
+- [[MOCs/Branches/In-Game Languages.md|In-Game Languages]]
+- [[index.md|index]]
+- [[MOCs/Trunk/Campaign MOC.md|Campaign MOC]]
+- [[Notes/Halfing Alencanto.md|Halfing Alencanto]]
+- [[Notes/Dragon Kajin-gon.md|Dragon Kajin-gon]]
+- [[Notes/Koðak Issegrimal.md|Koðak Issegrimal]]
+- [[Notes/Goliath Yazyk.md|Goliath Yazyk]]
+- [[Notes/Dwarvish Steinsprache.md|Dwarvish Steinsprache]]
+- [[Notes/Human Quetzaltlahtolli.md|Human Quetzaltlahtolli]]
+- [[Notes/Elvish Antiquivox.md|Elvish Antiquivox]]
+- [[Notes/Orcish Khyam.md|Orcish Khyam]]
+- [[Notes/Jampyul Khyamde.md|Jampyul Khyamde]]
+
+%% DATAVIEW_PUBLISHER: end %%
 
 ---
 

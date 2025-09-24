@@ -1,5 +1,7 @@
 ---
 title: Welcome to Yijung
+aliases:
+  - Home Page
 ---
 # Yijung Knowledge Vault
 ## Overview
@@ -8,8 +10,23 @@ Welcome, reader! This page is your guide to the Multiverse, known as [[Yijung]],
 2. They are made up of [[]]
 
 #### In-Links
+%% DATAVIEW_PUBLISHER: start
 ```dataview
 list from ""
-where contains(file.outlinks, [[Home Page]])
+where contains(file.outlinks, [[index]])
 sort file.mtime desc
 ```
+%%
+
+- [[MOCs/Branches/In-Game Languages.md|In-Game Languages]]
+- [[MOCs/Branches/Den Chöton.md|Den Chöton]]
+- [[MOCs/Trunk/People MOC.md|People MOC]]
+- [[MOCs/Trunk/Multiverse MOC.md|Multiverse MOC]]
+- [[MOCs/Trunk/Groups MOC.md|Groups MOC]]
+- [[MOCs/Trunk/Development Stages MOC.md|Development Stages MOC]]
+- [[MOCs/Trunk/Campaign MOC.md|Campaign MOC]]
+- [[Themes & Inspirations|Themes & Inspirations]]
+- [[MOCs/Branches/Players.md|Players]]
+
+%% DATAVIEW_PUBLISHER: end %%
+

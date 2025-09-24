@@ -1,4 +1,4 @@
-###### Up: <%* tR += '[[' + 'Home Page' + ']]' %> | <%* tR += '[[' + 'Development Stages MOC' + ']]' %>
+###### Up: <%* tR += '[[' + 'index' + ']]' %> | <%* tR += '[[' + 'Development Stages MOC' + ']]' %>
 ---
 # [[<% tp.file.title %>]]
 ## **Heading**

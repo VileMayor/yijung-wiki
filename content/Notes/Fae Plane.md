@@ -1,4 +1,4 @@
-###### Up: [[Multiverse MOC#**Planes**|Planes]] | [[Home Page]]
+###### Up: [[Multiverse MOC#**Planes**|Planes]] | [[index|Home Page]]
 # [[Fae Plane]]
 ## Overview
 

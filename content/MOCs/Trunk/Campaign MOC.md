@@ -1,4 +1,4 @@
-###### Up: [[Home Page]] 
+###### Up: [[index|Home Page]]
 ---
 # [[Campaign MOC]]
 
@@ -6,23 +6,36 @@
 ![[Players#Shadow of The Fallingstar]]
 ## **Modules**
 ### *Contracts*
+
+%% DATAVIEW_PUBLISHER: start
 ```dataview
 list from ""
 where contains(file.outlinks, [[Campaign MOC#*Contracts*]])
 sort file.mtime desc
 ```
+%%
+%% DATAVIEW_PUBLISHER: end %%
 ### *World Events*
+
+%% DATAVIEW_PUBLISHER: start
 ```dataview
 list from ""
 where contains(file.outlinks, [[Campaign MOC#*World Events*]])
 sort file.mtime desc
 ```
+%%
+%% DATAVIEW_PUBLISHER: end %%
 ### *PC Arcs*
+%% DATAVIEW_PUBLISHER: start
 ```dataview
 list from ""
 where contains(file.outlinks, [[Campaign MOC#*PC Arcs*]])
-sort file.mtime desc
+sort file.name asc
 ```
+%%
+%% DATAVIEW_PUBLISHER: end %%
+
+
 ## **Magic Items**
 ```dataview
 list from ""
