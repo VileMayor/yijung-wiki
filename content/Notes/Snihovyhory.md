@@ -4,7 +4,7 @@ aliases:
 title: Snihovyhory
 draft: false
 ---
-###### Up: [[Den Chöton#Continents and Regions|Continents and Regions]] | [[Development Stages MOC]]
+###### Up: [[Den Chöton#Continents and Regions|Continents and Regions]] | [[Development Stages MOC#**Room to Left to Grow**]]
 # [[Snihovyhory]]
 > [!info]
 > - Parent World: [[Salbé|Salbé]]      
@@ -29,6 +29,8 @@ draft: false
 
 ## Overview
 The Mountains North of [[Regentseat]]. Where the [[Goliath]] live. 
+
+# TBD
 ## Geography & Climate
 Overview of terrain zones, notable mountain ranges, rivers, seas, and climate zones.
 

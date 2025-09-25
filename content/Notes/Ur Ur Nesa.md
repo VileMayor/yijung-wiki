@@ -2,7 +2,7 @@
 title: Ur Ur Nesa
 draft: false
 ---
-###### Up: [[Den Chöton#Cities|Cities]] | [[Development Stages MOC]]
+###### Up: [[Den Chöton#Cities|Cities]] | [[Development Stages MOC#**Room to Left to Grow**]]
 # [[Ur Ur Nesa]]
 > [!info]
 > - Type: Capital City of [[Goblin]]                       <!-- City / Ruin / Site / Landmark -->

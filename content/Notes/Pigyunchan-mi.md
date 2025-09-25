@@ -4,7 +4,7 @@ aliases:
 title: Pigyunchan-mi
 draft: false
 ---
-###### Up: [[Den Chöton#Continents and Regions|Continents and Regions]] | [[Development Stages MOC]]
+###### Up: [[Den Chöton#Continents and Regions|Continents and Regions]] | [[Development Stages MOC#**Room to Left to Grow**]]
 # [[Pigyunchan-mi]]
 > [!info]
 > - Parent World: [[Salbé|Salbé]]         

@@ -2,7 +2,7 @@
 title: Die Gottschmiedetron
 draft: false
 ---
-###### Up: [[Groups MOC#Governments|Governments]] | [[Development Stages MOC]]
+###### Up: [[Groups MOC#Governments|Governments]] | [[Development Stages MOC#**Room to Left to Grow**]]
 # [[Die Gottschmiedetron]]
 > [!info]
 > - Type: [[Dwarf|Dwarvish]] Theocracy  <!-- Monarchy / Republic / Oligarchy / Theocracy / City-State -->

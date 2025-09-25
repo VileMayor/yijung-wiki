@@ -2,7 +2,7 @@
 title: Tel Ling
 draft: false
 ---
-###### Up: [[Den Chöton#Cities|Cities]] | [[Development Stages MOC]]
+###### Up: [[Den Chöton#Cities|Cities]] | [[Development Stages MOC#**Room to Left to Grow**]]
 # [[Tel Ling]]
 > [!info]
 > - Type: City                        <!-- City / Ruin / Site / Landmark -->        

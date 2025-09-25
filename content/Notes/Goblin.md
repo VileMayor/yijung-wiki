@@ -5,7 +5,7 @@ aliases:
 title: Goblin
 draft: false
 ---
-###### Up: [[People MOC#Playable Species|Playable Species]] | [[Development Stages MOC]]
+###### Up: [[People MOC#Playable Species|Playable Species]] | [[Development Stages MOC#**Requires Consideration**]]
 # [[Goblin]]
 > [!info]
 > - Endonyms: [[Goblin|Ur Ur]]
@@ -29,6 +29,9 @@ draft: false
 **
 
 The goblins invented the Mithril refinement process and are motivated to make money and get their people into dwarf cities. The treaty stipulates that the goblins will give equipment and engineers and will train future engineers but won't teach how to make the equipment.
+
+## The [[Mnemonic Stew]]
+Have discovered a way to transfer memories between goblins
 
 ### Nesan
 The nesan goblins have established many guilds and institutions they are great stores of innovation and storehouses of knowledge unlike any other group of goblins and have become an actual powerhouse on [[Yolsa]]. While many other tribes and their own past they are often abused by longer living species the Nesan were led in a revolution by [[Great Goblin Ancestor]] blessed of [[Papadok]]. They where taught to create the mnemonic stew a way in which they could encode memories with spices an spread knowledge this way. 

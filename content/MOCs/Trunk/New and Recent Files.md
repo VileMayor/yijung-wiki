@@ -3,7 +3,7 @@ title: New and Recent Files
 draft: false
 aliases:
 ---
-###### Up: [[index]] | [[Development Stages MOC]]
+###### Up: [[index]] | [[Development Stages MOC#**Low Priority**]]
 ---
 # [[New and Recent Files]]
 ## New Files

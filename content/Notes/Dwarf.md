@@ -5,7 +5,7 @@ aliases:
 title: Dwarf
 draft: false
 ---
-###### Up: [[People MOC#Playable Species|Playable Species]] | [[Development Stages MOC]]
+###### Up: [[People MOC#Playable Species|Playable Species]] | [[Development Stages MOC#**Room to Left to Grow**]]
 # [[Dwarf]]
 > [!info]
 > - Common Name:

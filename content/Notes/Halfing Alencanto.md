@@ -4,7 +4,7 @@ aliases:
 title: Halfing Alencanto
 draft: false
 ---
-###### Up: [[In-Game Languages]] | [[Development Stages MOC]]
+###### Up: [[In-Game Languages]]
 # [[Halfing Alencanto]]
 ---
 >Windsong || Castilian Spanish

@@ -2,7 +2,7 @@
 aliases:
   - Grizwald
 ---
-###### Up: [[People MOC#Key NPCs|Key NPCs]] | [[Development Stages MOC]] 
+###### Up: [[People MOC#Key NPCs|Key NPCs]] | [[Development Stages MOC#**Requires Player Input**]]
 
 ## [[Grizwadriel Goðsmiðr]]
 > [!info]
