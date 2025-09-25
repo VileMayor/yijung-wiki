@@ -1,11 +1,17 @@
 ---
-title: Dataview - Alphabetical - MOC List Template
+title: Groups MOC
 draft: false
 aliases:
 ---
+
+# Groups MOC
+
 ###### Up: [[index|Home Page]]
+
 ---
+
 ## **Governments**
+
 %% DATAVIEW_PUBLISHER: start
 ```dataview
 list from ""
@@ -21,6 +27,7 @@ sort file.name asc
 %% DATAVIEW_PUBLISHER: end %%
 
 ### *Governmental Factions*
+
 %% DATAVIEW_PUBLISHER: start
 ```dataview
 list from ""
@@ -37,8 +44,8 @@ sort file.name asc
 
 %% DATAVIEW_PUBLISHER: end %%
 
-
 ## **Cultures**
+
 %% DATAVIEW_PUBLISHER: start
 ```dataview
 list from ""
@@ -50,7 +57,9 @@ sort file.name asc
 
 
 %% DATAVIEW_PUBLISHER: end %%
+
 ## **Religions**
+
 %% DATAVIEW_PUBLISHER: start
 ```dataview
 list from ""
@@ -62,7 +71,9 @@ sort file.name asc
 
 
 %% DATAVIEW_PUBLISHER: end %%
+
 ### *Religious Orders*
+
 %% DATAVIEW_PUBLISHER: start
 ```dataview
 list from ""
@@ -74,7 +85,9 @@ sort file.name asc
 
 
 %% DATAVIEW_PUBLISHER: end %%
+
 ## **Guilds**
+
 %% DATAVIEW_PUBLISHER: start
 ```dataview
 list from ""
@@ -91,6 +104,7 @@ sort file.name asc
 %% DATAVIEW_PUBLISHER: end %%
 
 ## **Criminal Organizations**
+
 %% DATAVIEW_PUBLISHER: start
 ```dataview
 list from ""
@@ -103,8 +117,8 @@ sort file.name asc
 
 %% DATAVIEW_PUBLISHER: end %%
 
-
 ## **Groups (Other Organizations)**
+
 %% DATAVIEW_PUBLISHER: start
 ```dataview
 list from ""

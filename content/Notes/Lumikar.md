@@ -2,9 +2,11 @@
 title: Lumikar
 draft: false
 ---
+
 ###### Up: [[People MOC#Deities|Deities]] | [[Calendar Pantheon]] | [[Calendar Lux]]
 
 # [[Lumikar]]
+
 > [!info]
 > - Role: Sun God, Father of the moons
 > - Factions: [[Calendar Pantheon]]
@@ -14,7 +16,6 @@ draft: false
 ---
 
 ## Overview
-
 
 # TBD
 
@@ -30,8 +31,8 @@ draft: false
 > - Quests:
 > - Combat Suitability:
 > - Class
-## Appearance
 
+## Appearance
 
 ## Quote
 
@@ -45,10 +46,8 @@ draft: false
 
 ## Secret
 
-
-
-## Background 
+## Background
 
 ## Myth
 
-## statblock
+## Statblock

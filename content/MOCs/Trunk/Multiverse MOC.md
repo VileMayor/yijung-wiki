@@ -1,16 +1,21 @@
 ---
-title: Dataview - Alphabetical - MOC List Template
+title: Multiverse MOC
 draft: false
 aliases:
 ---
-###### up:: [[index|Home Page]]
+
+###### Up:: [[index|Home Page]]
 
 # [[Yijung]]
+
 ---
+
 ## [[Den Chöton]]
+
 ![[Den Chöton#Locations List]]
 
 ## **Planes**
+
 Universes
 %% DATAVIEW_PUBLISHER: start
 ```dataview
@@ -27,6 +32,7 @@ sort file.name asc
 %% DATAVIEW_PUBLISHER: end %%
 
 ### *Sub-Planes*
+
 Pocket Dimensions - Different from realms
 %% DATAVIEW_PUBLISHER: start
 ```dataview
@@ -41,6 +47,7 @@ sort file.name asc
 %% DATAVIEW_PUBLISHER: end %%
 
 ## **Realms Types**
+
 Part of the same plane but for different life forms. 6 realms buddhism style. 
 %% DATAVIEW_PUBLISHER: start
 ```dataview
@@ -55,6 +62,7 @@ sort file.name asc
 %% DATAVIEW_PUBLISHER: end %%
 
 ### *Realms*
+
 %% DATAVIEW_PUBLISHER: start
 ```dataview
 list from ""

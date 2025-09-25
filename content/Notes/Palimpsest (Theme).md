@@ -4,9 +4,11 @@ aliases:
 title: Palimpsest (Theme)
 draft: false
 ---
+
 ###### Up: [[Themes & Inspirations]]
 
 # [[Palimpsest (Theme)|Palimpsest]]
+
 ---
  >a manuscript or piece of writing material on which the original writing has been effaced to make room for later writing but of which traces remain.
  >- Oxford Languages

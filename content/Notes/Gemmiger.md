@@ -2,9 +2,11 @@
 title: Gemmiger
 draft: false
 ---
-###### Up: [[People MOC#Deities|Deities]] | [[Development Stages MOC]] 
+
+###### Up: [[People MOC#Deities|Deities]] | [[Development Stages MOC]]
 
 # [[Gemmiger]]
+
 > [!info]
 > - Role: Mountain Spirit that first took in Tellus and the Elves; Father of [[Schmiedevater]]
 > - Alignment: [[Alignment MOC#True Neutral|True Neutral]]
@@ -22,9 +24,10 @@ draft: false
 > - Class
 ---
 > Gemmi-ger | Gem-Bearer || Latin
-## Overview
-## Appearance
 
+## Overview
+
+## Appearance
 
 ## Quote
 
@@ -38,10 +41,8 @@ draft: false
 
 ## Secret
 
-
-
-## Background 
+## Background
 
 ## Myth
 
-## statblock
+## Statblock

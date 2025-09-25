@@ -3,14 +3,18 @@ title: New and Recent Files
 draft: false
 aliases:
 ---
+
 ###### Up: [[index]] | [[Development Stages MOC#**Low Priority**]]
+
 ---
+
 # [[New and Recent Files]]
+
 ## New Files
 
 %% DATAVIEW_PUBLISHER: start
 ```dataview
-    TABLE dateformat(file.mtime, "MM/dd/yy") + " - " + dateformat(file.mtime, "hh:mm a") as "Last Modified"
+    TABLE dateformat(file.ctime, "MM/dd/yy") + " - " + dateformat(file.ctime, "hh:mm a") as "Last Modified"
     FROM ""
     SORT file.ctime DESC
     LIMIT 10
@@ -18,7 +22,6 @@ aliases:
 ```
 %%
 %% DATAVIEW_PUBLISHER: end %%
-
 
 ## Recent Files
 
@@ -34,8 +37,6 @@ aliases:
 %% DATAVIEW_PUBLISHER: end %%
 
 ### *Subheading*
-
-
 
 ---
 

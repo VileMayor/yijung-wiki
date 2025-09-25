@@ -2,8 +2,11 @@
 title: Metallic Bonds
 draft: false
 ---
+
 ###### Up: [[Campaign MOC#Contracts|Contracts]]
+
 # [[Metallic Bonds]]
+
 ---
 > [!info]
 > - Type:
@@ -109,12 +112,14 @@ Choices & Mechanics:
 **
 
 **
+
 # TBD
 
 ## Overview
+
 Your note content goes here.
 
-## Objectives (clear win conditions)
+## Objectives (clear Win conditions)
 
 - Primary objective:
 - Secondary objectives (optional):
@@ -147,7 +152,7 @@ Your note content goes here.
 - Contract penalties / timeline / expectations:
 - Long-term consequences (if failed/successful):
 
-## Quick map of scenes (checklist)
+## Quick Map of Scenes (checklist)
 
 - [ ] 
     
@@ -166,7 +171,7 @@ Your note content goes here.
     Scene 4: Wrap-up / pay-out
     
 
-## Notes / Hooks for expansion
+## Notes / Hooks for Expansion
 
 - (one-line ideas to connect this to bigger plots)
 

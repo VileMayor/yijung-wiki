@@ -4,11 +4,13 @@ aliases:
 title: Alignment MOC
 draft: false
 ---
+
 ###### Up: [[Campaign MOC#Mechanics|Mechanics]]
 
 # [[Alignment MOC|Alignment]]
 
-## Overview 
+## Overview
+
 The alignments found on this vault are not what would show up while [[Detect Good and Evil - Mechanics|using detect good and evil]]. Instead they reflect my, VileMayor's determination. (Only opinion who matters; since this is mostly for roleplay:)
 
 -Good - Community Minded
@@ -18,8 +20,11 @@ The alignments found on this vault are not what would show up while [[Detect Goo
 -Lawful - Believes in laws rules and structures
 -Neutral -
 -Chaotic - Believes people should be left to there own devices
+
 ## Good <---> Evil Spectrum
+
 ### Good
+
 #### Lawful Good
 
 %% DATAVIEW_PUBLISHER: start
@@ -36,6 +41,7 @@ SORT file.name ASC
 %% DATAVIEW_PUBLISHER: end %%
 
 #### Neutral Good
+
 %% DATAVIEW_PUBLISHER: start
 ```dataview
 list from ""
@@ -47,6 +53,7 @@ SORT file.name ASC
 - [[Notes/Koðak.md|Koðak]]
 
 %% DATAVIEW_PUBLISHER: end %%
+
 #### Chaotic Good
 
 %% DATAVIEW_PUBLISHER: start
@@ -62,9 +69,10 @@ SORT file.name ASC
 
 %% DATAVIEW_PUBLISHER: end %%
 
-
 ### Neutral
+
 #### Lawful Neutral
+
 %% DATAVIEW_PUBLISHER: start
 ```dataview
 list from ""
@@ -76,7 +84,9 @@ SORT file.name ASC
 - [[Notes/Deorumors.md|Deorumors]]
 
 %% DATAVIEW_PUBLISHER: end %%
+
 #### True Neutral
+
 %% DATAVIEW_PUBLISHER: start
 ```dataview
 list from ""
@@ -91,7 +101,9 @@ SORT file.name ASC
 - [[Notes/Kharub Lodor.md|Kharub Lodor]]
 
 %% DATAVIEW_PUBLISHER: end %%
+
 #### Chaotic Neutral
+
 %% DATAVIEW_PUBLISHER: start
 ```dataview
 list from ""
@@ -106,7 +118,9 @@ SORT file.name ASC
 %% DATAVIEW_PUBLISHER: end %%
 
 ### Evil
+
 #### Lawful Evil
+
 %% DATAVIEW_PUBLISHER: start
 ```dataview
 list from ""
@@ -118,7 +132,9 @@ SORT file.name ASC
 - [[Notes/Zeldriel Mythodux.md|Zeldriel Mythodux]]
 
 %% DATAVIEW_PUBLISHER: end %%
+
 #### Neutral Evil
+
 %% DATAVIEW_PUBLISHER: start
 ```dataview
 list from ""
@@ -132,6 +148,7 @@ SORT file.name ASC
 %% DATAVIEW_PUBLISHER: end %%
 
 #### Chaotic Evil
+
 %% DATAVIEW_PUBLISHER: start
 ```dataview
 list from ""
@@ -145,8 +162,11 @@ SORT file.name ASC
 %% DATAVIEW_PUBLISHER: end %%
 
 ## Lawful <---> Chaotic Spectrum
+
 ### Lawful
+
 #### Lawful Good
+
 %% DATAVIEW_PUBLISHER: start
 ```dataview
 list from ""
@@ -159,7 +179,9 @@ SORT file.name ASC
 - [[Notes/Tellus.md|Tellus]]
 
 %% DATAVIEW_PUBLISHER: end %%
+
 #### Lawful Neutral
+
 %% DATAVIEW_PUBLISHER: start
 ```dataview
 list from ""
@@ -171,7 +193,9 @@ SORT file.name ASC
 - [[Notes/Deorumors.md|Deorumors]]
 
 %% DATAVIEW_PUBLISHER: end %%
+
 #### Lawful Evil
+
 %% DATAVIEW_PUBLISHER: start
 ```dataview
 list from ""
@@ -183,8 +207,11 @@ SORT file.name ASC
 - [[Notes/Zeldriel Mythodux.md|Zeldriel Mythodux]]
 
 %% DATAVIEW_PUBLISHER: end %%
+
 ### Neutral
+
 #### Neutral Good
+
 %% DATAVIEW_PUBLISHER: start
 ```dataview
 list from ""
@@ -196,7 +223,9 @@ SORT file.name ASC
 - [[Notes/Koðak.md|Koðak]]
 
 %% DATAVIEW_PUBLISHER: end %%
+
 #### True Neutral
+
 %% DATAVIEW_PUBLISHER: start
 ```dataview
 list from ""
@@ -211,7 +240,9 @@ SORT file.name ASC
 - [[Notes/Kharub Lodor.md|Kharub Lodor]]
 
 %% DATAVIEW_PUBLISHER: end %%
+
 #### Neutral Evil
+
 %% DATAVIEW_PUBLISHER: start
 ```dataview
 list from ""
@@ -223,8 +254,11 @@ SORT file.name ASC
 
 
 %% DATAVIEW_PUBLISHER: end %%
+
 ### Chaotic
+
 #### Chaotic Good
+
 %% DATAVIEW_PUBLISHER: start
 ```dataview
 list from ""
@@ -237,7 +271,9 @@ SORT file.name ASC
 - [[Notes/Tarmé-mo.md|Tarmé-mo]]
 
 %% DATAVIEW_PUBLISHER: end %%
+
 #### Chaotic Neutral
+
 %% DATAVIEW_PUBLISHER: start
 ```dataview
 list from ""
@@ -250,7 +286,9 @@ SORT file.name ASC
 - [[Notes/Mukha Dekyi.md|Mukha Dekyi]]
 
 %% DATAVIEW_PUBLISHER: end %%
+
 #### Chaotic Evil
+
 %% DATAVIEW_PUBLISHER: start
 ```dataview
 list from ""

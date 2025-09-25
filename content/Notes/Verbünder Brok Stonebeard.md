@@ -1,6 +1,10 @@
+---
+title: Verbünder Brok Stonebeard
+---
 E###### Up: [[People MOC#Incidental NPCs|Incidental NPCs]] | [[Development Stages MOC#**Requires Consideration**]] 
 
 # [[Verbünder Brok Stonebeard]]
+
 > [!info]
 > - Role: Ambassador from [[Die Gottschmiedetron]] trying to establish a mithril trade deal. 
 > - Personality:
@@ -16,13 +20,14 @@ E###### Up: [[People MOC#Incidental NPCs|Incidental NPCs]] | [[Development Stage
 > - Combat Suitability:
 > - Class:
 ---
+
 ## Overview
+
 He views the trials and derision from other dwarves resulting from this treaty is a 'test of his faith' as the [[Gottservelter]] has commanded it. 
+
 ## Appearance
 
-
 ## Quote
-
 
 ## Roleplaying Traits
 
@@ -32,13 +37,8 @@ He views the trials and derision from other dwarves resulting from this treaty i
 
 ## Goal / Motivation
 
-
 ## Secret
 
+## Background
 
-
-## Background 
-
-
-
-## statblock
+## Statblock

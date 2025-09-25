@@ -2,6 +2,9 @@
 title: Tellus
 draft: false
 ---
+
+# Tellus
+
 ###### Up: [[People MOC#Deities|Deities]] | [[Elven Pantheon]] | [[Tel Ling]] | [[Tarmé-mo|Mikyé-ma]] | [[Development Stages MOC]]
 
 ## Tellus
@@ -23,8 +26,8 @@ draft: false
 ---
 > Name of Mother Earth in Latin 
 ---
-## Appearance
 
+## Appearance
 
 ## Quote
 
@@ -38,10 +41,8 @@ draft: false
 
 ## Secret
 
-
-
-## Background 
+## Background
 
 ## Myth
 
-## statblock
+## Statblock

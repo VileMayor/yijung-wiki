@@ -1,10 +1,15 @@
 ---
 aliases:
   - Grizwald
+title: Grizwadriel Goðsmiðr
 ---
+
+# Grizwadriel Goðsmiðr
+
 ###### Up: [[People MOC#Key NPCs|Key NPCs]] | [[Development Stages MOC#**Requires Player Input**]]
 
 ## [[Grizwadriel Goðsmiðr]]
+
 > [!info]
 > - Role: Owner/Operator of Grizwald’s “Heroes”-for-Hire
 > - Alignment: [[Alignment MOC#True Neutral|True Neutral]]
@@ -23,14 +28,14 @@ aliases:
 ---
 >Goðsmiðr | God/Myth-Smith || Old Norse
 ---
+
 ## Overview
+
 Founder of [[Grizwald’s “Heroes”-for-Hire]]. He is gay and in a relationship with [[Ghost]]. He was raised by his half-sister [[Zeldriel Mythodux|Zelda]] as their mother left shortly after his birth on a quest for the [[Deifractoria]]. [[Koðak]] don't generally care that he is gay. 
 
 ## Appearance
 
-
 ## Quote
-
 
 ## Roleplaying Traits
 
@@ -40,13 +45,8 @@ Founder of [[Grizwald’s “Heroes”-for-Hire]]. He is gay and in a relationsh
 
 ## Goal / Motivation
 
-
 ## Secret
 
+## Background
 
-
-## Background 
-
-
-
-## statblock
+## Statblock

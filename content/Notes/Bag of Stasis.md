@@ -6,7 +6,9 @@ tags:
  
 
 ###### Up: [[Campaign MOC#Magic Items|Magic Items]]
+
 # [[Bag of Stasis]]
+
 ---
 _Wondrous Item, Common_
 
@@ -15,7 +17,9 @@ This small, unremarkable leather pouch is similar in appearance to a Bag of Hold
 _Living items placed in the bag die when passing the boundary of the bag because they do not cross instantaneously._
 
 ---
+
 #### See Also
+
 - [[Zeldriel Mythodux|Zelda]]
 - [[Slushy Morsels]]
 - [[Academy Luminaria]]

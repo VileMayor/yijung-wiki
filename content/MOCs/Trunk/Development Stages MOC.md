@@ -1,12 +1,17 @@
 ---
-title: Dataview - Time Edited - MOC List Template
+title: Development Stages MOC
 draft: false
 aliases:
 ---
+
+# Development Stages MOC
+
 ###### Up: [[index|Home Page]]
 
 This page includes things that I still need to update or have yet to be assigned to a more appropriate MOC.
+
 ## **Landing**
+
 %% DATAVIEW_PUBLISHER: start
 ```dataview
 list from ""
@@ -57,6 +62,7 @@ sort file.mtime desc
 %% DATAVIEW_PUBLISHER: end %%
 
 ## **Requires Consideration**
+
 %% DATAVIEW_PUBLISHER: start
 ```dataview
 list from ""
@@ -70,6 +76,7 @@ sort file.mtime desc
 %% DATAVIEW_PUBLISHER: end %%
 
 ## **Requires Player Input**
+
 %% DATAVIEW_PUBLISHER: start
 ```dataview
 list from ""
@@ -82,7 +89,8 @@ sort file.mtime desc
 
 %% DATAVIEW_PUBLISHER: end %%
 
-## **Room to Left to Grow**
+## **Room To Left to Grow**
+
 %% DATAVIEW_PUBLISHER: start
 ```dataview
 list from ""
@@ -95,8 +103,8 @@ sort file.mtime desc
 
 %% DATAVIEW_PUBLISHER: end %%
 
-
 ## **Low Priority**
+
 %% DATAVIEW_PUBLISHER: start
 ```dataview
 list from ""

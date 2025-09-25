@@ -4,9 +4,13 @@ aliases:
 title: Schmiedevater
 draft: false
 ---
-###### Up: [[People MOC#Deities|Deities]] | [[Development Stages MOC]] 
+
+# Schmiedevater
+
+###### Up: [[People MOC#Deities|Deities]] | [[Development Stages MOC]]
 
 ## [[Schmiedevater]]
+
 > [!info]
 > - Role: Creator of Dwarves; Imprisoned [[Cruentus]]
 > - Personality:
@@ -24,8 +28,8 @@ draft: false
 >Forge-Father || German
 >Resax Faber | Rex Saxorum Faber | King Stone Craftsman || Latin
 ---
-## Appearance
 
+## Appearance
 
 ## Quote
 
@@ -39,13 +43,10 @@ draft: false
 
 ## Secret
 
-
-
-## Background 
+## Background
 
 ## Myth
 
-## statblock
+## Statblock
 
-
-###### Properties 
+###### Properties

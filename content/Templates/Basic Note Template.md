@@ -10,9 +10,13 @@ frontmatter.title = tp.file.title
 frontmatter.draft = false
 // Or delete the properties you don't want 
  }) }, 300) %>###### Up: <%* tR += '[[' + 'Development Stages MOC' + ']]' %>
+
 # [[<% tp.file.title %>]]
+
 ---
+
 ## Overview
+
 Your note content goes here.
 
 

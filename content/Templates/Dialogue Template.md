@@ -3,6 +3,9 @@ title: Dialogue Template
 draft: true
 aliases:
 ---
+
+# Dialogue Template
+
 ```dialogue
 left: [[]]
 right: [[]]

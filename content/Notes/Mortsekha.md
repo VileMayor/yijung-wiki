@@ -2,9 +2,11 @@
 title: Mortsekha
 draft: false
 ---
-###### Up: [[People MOC#Deities|Deities]] | [[Calendar Pantheon]] | [[Calendar Lux]] 
+
+###### Up: [[People MOC#Deities|Deities]] | [[Calendar Pantheon]] | [[Calendar Lux]]
 
 # [[Mortsekha]]
+
 > [!info]
 > - Role: God Ruling the Underworld
 > - Factions: [[Calendar Pantheon]]
@@ -13,6 +15,7 @@ draft: false
 ---
 
 ## Overview
+
 # TBD
 
 - Alignment:
@@ -27,8 +30,8 @@ draft: false
 > - Quests:
 > - Combat Suitability:
 > - Class
-## Appearance
 
+## Appearance
 
 ## Quote
 
@@ -42,10 +45,8 @@ draft: false
 
 ## Secret
 
-
-
-## Background 
+## Background
 
 ## Myth
 
-## statblock
+## Statblock

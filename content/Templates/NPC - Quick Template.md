@@ -12,6 +12,7 @@ frontmatter.draft = false
  }) }, 300) %>###### Up: <%* tR += '[[' + 'People MOC#Incidental NPCs' + '|' + 'Incidental NPCs' + ']]' %> | <%* tR += '[[' + 'Development Stages MOC' + ']]' %>
 
 # [[<% tp.file.title %>]]
+
 > [!info]
 > - Role:
 > - Personality:
@@ -27,14 +28,15 @@ frontmatter.draft = false
 > - Combat Suitability:
 > - Class:
 ---
-## Overview
-## Appearance
 
+## Overview
+
+## Appearance
 
 ## Quote
 
-
 ## Roleplaying Traits
+
 Character Touchstone: Character from a book or movie
 Why: Explain
 -
@@ -43,13 +45,8 @@ Why: Explain
 
 ## Goal / Motivation
 
-
 ## Secret
 
+## Background
 
-
-## Background 
-
-
-
-## statblock
+## Statblock

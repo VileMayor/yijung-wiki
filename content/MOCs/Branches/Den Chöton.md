@@ -3,9 +3,13 @@ aliases:
 title: Den Chöton
 draft: false
 ---
+
 ###### Up: [[Multiverse MOC#**Planes**|Planes]] | [[index|Home Page]]
+
 # [[Den Chöton]]
+
 ### Info
+
 > [!info]
 > - Type:           <!-- Material Plane / Inner Plane / Outer Plane / Demiplane -->  
 > - Dominant Theme: The [[God Realm]]
@@ -22,12 +26,17 @@ draft: false
 ---
 > Den Chöton | Faithful Realm || Tibetan
 ---
+
 ## Overview
+
 > Faithful Realm || Tibetan
 
 This is the plane in which our campaign is set
+
 ## Locations List
+
 ### **Worlds**
+
 Actual Planets
 %% DATAVIEW_PUBLISHER: start
 ```dataview
@@ -40,7 +49,9 @@ SORT file.name ASC
 - [[MOCs/Branches/Salbé.md|Salbé]]
 
 %% DATAVIEW_PUBLISHER: end %%
-#### *Continents and Regions*
+
+#### *Continents And Regions*
+
 From All Worlds
 %% DATAVIEW_PUBLISHER: start
 ```dataview
@@ -58,7 +69,9 @@ sort file.name asc
 - [[Notes/Yolsa.md|Yolsa]]
 
 %% DATAVIEW_PUBLISHER: end %%
+
 ##### *Cities*
+
 From all worlds
 %% DATAVIEW_PUBLISHER: start
 ```dataview
@@ -81,7 +94,9 @@ SORT file.name ASC
 - [[Notes/Ur Ur Nesa.md|Ur Ur Nesa]]
 
 %% DATAVIEW_PUBLISHER: end %%
-###### *Places of Interest*
+
+###### *Places Of Interest*
+
 Other Locations
 %% DATAVIEW_PUBLISHER: start
 ```dataview
@@ -98,6 +113,9 @@ SORT file.name ASC
 - [[Notes/The Prudish Mermaid.md|The Prudish Mermaid]]
 
 %% DATAVIEW_PUBLISHER: end %%
+
 ## Magic
+
 ![[Den Chöton Magical Theory#Overview]]
+
 ## Travel & Access

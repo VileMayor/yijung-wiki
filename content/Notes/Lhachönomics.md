@@ -4,17 +4,23 @@ aliases:
 title: Lhachönomics
 draft: false
 ---
+
 ###### Up: [[Campaign MOC#Mechanics|Mechanics]]
+
 # [[Lhachönomics]]
+
 ---
 >Laws of the Shifting Gods || Tibetolatin
 ---
+
 ## Overview
+
 The mechanics of how the gods change with the belief of their followers. Their personality, powers, histories, and even relationships and the shape of their worlds can change as their followers beliefs change. 
 
 They stories of their gods are more stable than in our world because the gods do interact directly with followers. 
 
 ## Mechanics
+
 Are at their strongest when believers believe them to be all powerful and the only holder of such power. 
 
 As followers believer otherwise their power grows weaker. [[Den Chöton Magical Theory]]

@@ -4,9 +4,11 @@ aliases:
 title: Luxanna Öbeb III
 draft: false
 ---
-###### Up: [[People MOC#Key NPCs|Key NPCs]] | [[Development Stages MOC]] 
+
+###### Up: [[People MOC#Key NPCs|Key NPCs]] | [[Development Stages MOC]]
 
 # [[Luxanna Öbeb III]]
+
 > [!info]
 > - Role: Current Imperatrix Lux
 > - Alignment: [[True Neutral]]
@@ -23,13 +25,14 @@ draft: false
 > - Combat Suitability:
 > - Class:
 ---
+
 ## Overview
+
 Working against the Dwarf/Goblin Trade Deal 
+
 ## Appearance
 
-
 ## Quote
-
 
 ## Roleplaying Traits
 
@@ -39,13 +42,8 @@ Working against the Dwarf/Goblin Trade Deal
 
 ## Goal / Motivation
 
-
 ## Secret
 
+## Background
 
-
-## Background 
-
-
-
-## statblock
+## Statblock

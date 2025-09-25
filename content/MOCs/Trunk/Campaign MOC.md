@@ -1,15 +1,21 @@
 ---
-title: Dataview - Alphabetical - MOC List Template
+title: Campaign MOC
 draft: false
 aliases:
 ---
+
 ###### Up: [[index|Home Page]]
+
 ---
+
 # [[Campaign MOC]]
 
 ## **[[Players]]**
+
 ![[Players#Shadow of The Fallingstar]]
+
 ## **Modules**
+
 ### *Contracts*
 
 %% DATAVIEW_PUBLISHER: start
@@ -25,6 +31,7 @@ sort file.mtime desc
 - [[Notes/Lonesome Howls.md|Lonesome Howls]]
 
 %% DATAVIEW_PUBLISHER: end %%
+
 ### *World Events*
 
 %% DATAVIEW_PUBLISHER: start
@@ -38,7 +45,9 @@ sort file.mtime desc
 
 
 %% DATAVIEW_PUBLISHER: end %%
+
 ### *PC Arcs*
+
 %% DATAVIEW_PUBLISHER: start
 ```dataview
 list from ""
@@ -51,8 +60,8 @@ sort file.name asc
 
 %% DATAVIEW_PUBLISHER: end %%
 
-
 ## **Magic Items**
+
 %% DATAVIEW_PUBLISHER: start
 ```dataview
 list from ""
@@ -67,7 +76,9 @@ sort file.name asc
 %% DATAVIEW_PUBLISHER: end %%
 
 ## **Encounter Design**
+
 ### *Enemy Statblocks*
+
 %% DATAVIEW_PUBLISHER: start
 ```dataview
 list from ""
@@ -81,6 +92,7 @@ sort file.name asc
 %% DATAVIEW_PUBLISHER: end %%
 
 ### *Environmental Effects*
+
 %% DATAVIEW_PUBLISHER: start
 ```dataview
 list from ""
@@ -98,6 +110,7 @@ sort file.name asc
 ## **Rules**
 
 ### *Mechanics*
+
 %% DATAVIEW_PUBLISHER: start
 ```dataview
 list from ""
@@ -113,8 +126,11 @@ sort file.name asc
 %% DATAVIEW_PUBLISHER: end %%
 
 ### *[[Alignment MOC|Alignment]]*
+
 ![[Alignment MOC#Overview|Alignment]]
+
 ## **[[In-Game Languages]]**
+
 ![[In-Game Languages#List of Important Languages]]
 
 

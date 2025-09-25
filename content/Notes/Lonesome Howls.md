@@ -2,8 +2,11 @@
 title: Lonesome Howls
 draft: false
 ---
+
 ###### Up: [[Campaign MOC#Contracts|Contracts]]
+
 # [[Lonesome Howls]]
+
 ---
 > [!info]
 > - Type:
@@ -12,7 +15,9 @@ draft: false
 > - Client:
 > - Reward:
 ---
+
 ## Overview
+
 **
 
 The Threat: A newly turned, pregnant halfling werewolf.
@@ -21,7 +26,7 @@ Werewolf Lore in Salbé: Lycanthropy in this world is a magical disease tied to 
 
 **
 
-## Objectives (clear win conditions)
+## Objectives (clear Win conditions)
 
 - Primary objective:
 - Secondary objectives (optional):
@@ -54,7 +59,7 @@ Werewolf Lore in Salbé: Lycanthropy in this world is a magical disease tied to 
 - Contract penalties / timeline / expectations:
 - Long-term consequences (if failed/successful):
 
-## Quick map of scenes (checklist)
+## Quick Map of Scenes (checklist)
 
 - [ ] 
     
@@ -73,7 +78,7 @@ Werewolf Lore in Salbé: Lycanthropy in this world is a magical disease tied to 
     Scene 4: Wrap-up / pay-out
     
 
-## Notes / Hooks for expansion
+## Notes / Hooks for Expansion
 
 - (one-line ideas to connect this to bigger plots)
 

@@ -3,6 +3,9 @@ title: To Do List
 draft: true
 aliases:
 ---
+
+# To Do List
+
 - [ ] Copy All of SotF 0.3.1 into Vault
 - [ ]   - Just need statblocks
 - [ ] Figure out early level quests
@@ -10,8 +13,6 @@ aliases:
 - Still want to do frostlands, werewolf, mithril exposure
 - [ ] bag of stasis recovery from cult zone of power
 
+## Updates Needed
 
-
-
-## Updates needed
 - [ ]  statblock and myth - [[Oscario]]

@@ -2,9 +2,11 @@
 title: Mukha Dekyi
 draft: false
 ---
+
 ###### Up: [[People MOC#Deities|Deities]] | [[Calendar Pantheon]] | [[Calendar Lux]]
 
 # [[Mukha Dekyi]]
+
 > [!info]
 > - Role: Goddess of the Far Moon
 > - Alignment: [[Alignment MOC#Chaotic Neutral|Chaotic Neutral]]
@@ -12,7 +14,9 @@ draft: false
 > - Relations: [[Lumikar]] [[Rubiphal Drolma]]
 ---
 >The Face of Two || Tibetolatin
+
 ## Overview
+
 # TBD
 
 - Alignment:
@@ -27,8 +31,8 @@ draft: false
 > - Quests:
 > - Combat Suitability:
 > - Class
-## Appearance
 
+## Appearance
 
 ## Quote
 
@@ -42,10 +46,8 @@ draft: false
 
 ## Secret
 
-
-
-## Background 
+## Background
 
 ## Myth
 
-## statblock
+## Statblock

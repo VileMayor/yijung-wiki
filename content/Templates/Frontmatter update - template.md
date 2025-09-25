@@ -2,6 +2,9 @@
 title: Frontmatter update - template
 draft: true
 ---
+
+# Frontmatter Update - Template
+
 <%* setTimeout(() => { // Get the path to the new file 
 const newFile = tp.file.find_tfile(tp.file.path(true)) // Process the frontmatter 
 app.fileManager.processFrontMatter(newFile, (frontmatter) => { // Add a new field 

@@ -4,9 +4,11 @@ aliases:
 title: Zeldriel Mythodux
 draft: false
 ---
+
 ###### Up: [[People MOC#Key NPCs|Key NPCs]] | [[Academy Luminaria]] | [[The Narradei]] | [[The Manaseekers]]
 
 # [[Zeldriel Mythodux]]
+
 > [!info]
 > - Role: A magical procurement agent for [[Academy Luminaria]]
 > - Alignment: [[Alignment MOC#Lawful Evil|Lawful Evil]]
@@ -32,11 +34,7 @@ The procurement agent for the Dawnbringer's Academy, Zelda is a 400-year-old hal
 
 ## Appearance
 
-
-
-
 ## Quote
-
 
 ## Roleplaying Traits
 
@@ -46,13 +44,8 @@ The procurement agent for the Dawnbringer's Academy, Zelda is a 400-year-old hal
 
 ## Goal / Motivation
 
-
 ## Secret
 
+## Background
 
-
-## Background 
-
-
-
-## statblock
+## Statblock

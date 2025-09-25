@@ -10,7 +10,9 @@ frontmatter.title = tp.file.title
 frontmatter.draft = false
 // Or delete the properties you don't want 
  }) }, 300) %>###### Up:  <%* tR += '[[' + 'Campaign MOC#World Events' + '|' + 'World Events' + ']]' %> | <%* tR += '[[' + 'Development Stages MOC' + ']]' %>
+
 # [[<% tp.file.title %>]]
+
 ---
 > [!info]
 > - Type:
@@ -20,8 +22,11 @@ frontmatter.draft = false
 > - Level Range:
 > - Reward:
 ---
+
 ## Overview
+
 Your note content goes here.
+
 ## Theme & Tone
 
 - (e.g. political intrigue, cosmic horror, exploration)
@@ -44,7 +49,7 @@ Your note content goes here.
 - Faction 1 (goal):
 - Faction 2 (goal):
 
-## Primary Hooks (ways players get involved)
+## Primary Hooks (ways Players Get involved)
 
 - Hook A:
 - Hook B:

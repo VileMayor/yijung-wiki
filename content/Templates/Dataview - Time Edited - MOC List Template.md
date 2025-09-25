@@ -3,6 +3,9 @@ title: Dataview - Time Edited - MOC List Template
 draft: true
 aliases:
 ---
+
+# Dataview - Time Edited - MOC List Template
+
 <%*  
 const activeFile = app.workspace.getActiveFile();  
 if (!activeFile) throw new Error("No active file open.");

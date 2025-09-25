@@ -2,15 +2,18 @@
 title: Caeliblatha
 draft: false
 ---
+
 ###### Up: [[People MOC#Deities|Deities]] | [[Calendar Pantheon]] | [[Calendar Lux]]
 
 # [[Caeliblatha]]
+
 > [!info]
 > - Role: God of the sky
 > - Factions: [[Calendar Pantheon]]
 ---
 >Sky-Blanket || Tibetolatin
 ---
+
 ## Overview
 
 # TBD
@@ -27,8 +30,8 @@ draft: false
 > - Quests:
 > - Combat Suitability:
 > - Class
-## Appearance
 
+## Appearance
 
 ## Quote
 
@@ -42,10 +45,8 @@ draft: false
 
 ## Secret
 
-
-
-## Background 
+## Background
 
 ## Myth
 
-## statblock
+## Statblock

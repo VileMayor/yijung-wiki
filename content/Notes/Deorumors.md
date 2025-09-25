@@ -2,9 +2,13 @@
 title: Deorumors
 draft: false
 ---
-###### Up: [[People MOC#Deities|Deities]] | [[Development Stages MOC]] 
+
+# Deorumors
+
+###### Up: [[People MOC#Deities|Deities]] | [[Development Stages MOC]]
 
 ## [[Deorumors]]
+
 > [!info]
 > - Role: Stillborn Goddess of Knowledge/Technology; Can remember changes to the god realm. 
 > - Alignment [[Alignment MOC#Lawful Neutral|Lawful Neutral]]
@@ -21,8 +25,8 @@ draft: false
 ---
 >Deorumors | Deorum + Mors | "Death of the Gods" || Latin
 ---
-## Appearance
 
+## Appearance
 
 ## Quote
 
@@ -35,11 +39,11 @@ draft: false
 ## Goal / Motivation
 
 ## Secret
+
 Wa
 
-
-## Background 
+## Background
 
 ## Myth
 
-## statblock
+## Statblock

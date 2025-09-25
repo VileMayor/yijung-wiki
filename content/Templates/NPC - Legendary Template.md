@@ -12,6 +12,7 @@ frontmatter.draft = false
  }) }, 300) %>###### Up: <%* tR += '[[' + 'People MOC#Legendary NPCs' + '|' + 'Legendary NPCs' + ']]' %> | <%* tR += '[[' + 'Development Stages MOC' + ']]' %>
 
 # [[<% tp.file.title %>]]
+
 > [!info]
 > - Role:
 > - Alignment:
@@ -28,13 +29,15 @@ frontmatter.draft = false
 > - Combat Suitability:
 > - Class
 ---
-## Overview
-## Appearance
 
+## Overview
+
+## Appearance
 
 ## Quote
 
 ## Roleplaying Traits
+
 Character Touchstone: Character from a book or movie
 Why: Explain
 -
@@ -45,10 +48,8 @@ Why: Explain
 
 ## Secret
 
-
-
-## Background 
+## Background
 
 ## Myth
 
-## statblock
+## Statblock

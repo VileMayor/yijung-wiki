@@ -2,8 +2,11 @@
 title: Koðak
 draft: false
 ---
+
 ###### Up: [[People MOC#Playable Species]] | [[Development Stages MOC]]
+
 # Koðak
+
 > [!info]
 > - Common Name: Bear-men; Kothak
 > - Type: [[Anthrobeast]]              <!-- Humanoid / Fey / Aberration / Beast / Construct etc. -->
@@ -20,11 +23,15 @@ draft: false
 > - Notable Individuals: 
 > - Variants / Subraces: [[#Artic Koðak]] [[#Coastal Koðak]] 
 ---
+
 ## Short Description
+
 Koðak stand upright, are thick-chested and broad-shouldered, and continue to grow in girth and mass throughout their lives. Communities mark life by size, and many rites revolve around measuring one’s heart against increasing bulk.
 
 ## Biology & Physiology
+
 ### Age - Size Breakdown
+
 - Newborn (0–1 year)
     - Height: 1.0–1.5 ft (30–45 cm)
     - Weight: 2–6 lb (1–3 kg)
@@ -50,8 +57,8 @@ Koðak stand upright, are thick-chested and broad-shouldered, and continue to gr
     - Weight: 900–1,400+ lb (408–635+ kg)
     - Notes: many natural deaths happen in this bracket as the heart finally can’t keep up; extremes vary by sex/niche.
 
-
 ## Culture & Society
+
 - Built around a Matriarch. Bands are made up of Females and Juvenile Males.
 	-  Adult males often are pushed out of the band. 
 		- This is ritualized and expected. 
@@ -69,15 +76,19 @@ Koðak stand upright, are thick-chested and broad-shouldered, and continue to gr
 	- Pooled and distributed food. 
 	- Much shame in failing to meet your duty. 
 - Ceremonies marking different stages of life.
+
 ## Names
+
 Last names generally father's name -rson or -dottir.
 
 ## Habitat & Distribution
+
 - Typically found on the continent of [[Dömling]] and the North-Eastern coasts of [[Yolsa]]
 	- Frozen Icelands
 	- Coastal Forest & Rocky Beachs
 
 ## Relations & Diplomacy
+
 - Allies 
 	- [[Goliath]] 
 	- [[Verdikar]] 
@@ -90,11 +101,15 @@ Last names generally father's name -rson or -dottir.
 	- Allied with the [[Goliath]] tribes against the Giant's. 
 
 ## Roles & Adventuring Hooks
+
 - Classes / roles most common among adventurers of this species
 - Typical motivations for adventuring
 - 3 quick hooks tied to species culture or conflicts
+
 ## Variants & Subspecies
+
 ### Artic Koðak
+
 - Ecology & subsistence
     - Diet focused on seals, whales, cold‑water fish and hardy tundra plants; hunts are large, cooperative, and seasonal.
     - Herds are highly migratory, tracking pack ice and marine mammal migrations.
@@ -112,6 +127,7 @@ Last names generally father's name -rson or -dottir.
     - Stoic, long‑term planners who prioritize careful resource management and preservation of elders’ knowledge.
 
 ### Coastal Koðak
+
 - Ecology & subsistence
     - Diet focused on fish, shellfish, crustaceans, kelp and occasional marine mammals; semi‑sedentary around productive coves and estuaries.
     - Seasonal moves are short and timed to spawning and tidal cycles.
@@ -130,15 +146,17 @@ Last names generally father's name -rson or -dottir.
     - Adaptive, mobile, opportunistic; matriarchs tend to be politically savvy and negotiators.
 
 ## Notable Individuals & Examples
+
 - [[Grizwadriel Goðsmiðr]] - Only half
 
 ## Secrets & Rumors
 
-
 ## Notes & Sources
+
 - Inspired by the Panserbjorne of His Dark Materials
 - Family dynamics based on elephants.
 - Icelandic/Norse language roots and cultural touchstones.
 
 ## Tags / Keywords
+
 Comma-separated tags for indexing (e.g., aquatic, nomadic, psionic, playable)

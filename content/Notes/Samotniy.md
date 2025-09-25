@@ -2,9 +2,11 @@
 title: Samotniy
 draft: false
 ---
-###### Up: [[People MOC#Deities|Deities]] | [[Development Stages MOC]] 
+
+###### Up: [[People MOC#Deities|Deities]] | [[Development Stages MOC]]
 
 # [[Samotniy]]
+
 > [!info]
 > - Role: Goliath God stuck on earth in [[Concursudio]] started the [[werewolf|loneliness]]
 > - Alignment: [[Neutral Good]]
@@ -21,8 +23,8 @@ draft: false
 ---
 > The Lonely One || Ukrainian
 ---
-## Appearance
 
+## Appearance
 
 ## Quote
 
@@ -36,11 +38,10 @@ draft: false
 
 ## Secret
 
+## Background
 
-
-## Background 
 Name means the Lonely one in Ukrainian
 
 ## Myth
 
-## statblock
+## Statblock

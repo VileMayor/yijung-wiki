@@ -4,9 +4,11 @@ aliases:
 title: Servomchog
 draft: false
 ---
-###### Up: [[People MOC#Incidental NPCs|Incidental NPCs]] | [[Development Stages MOC]] 
+
+###### Up: [[People MOC#Incidental NPCs|Incidental NPCs]] | [[Development Stages MOC]]
 
 # [[Servomchog]]
+
 > [!info]
 > - Role: Puts in contracts that the [[Imperatrix Lux]] doesn't want linked back to her.
 > - Personality:
@@ -23,12 +25,12 @@ draft: false
 > - Class:
 ---
 >Chosen Servant || Tibetolatin 
+
 ## Overview
+
 ## Appearance
 
-
 ## Quote
-
 
 ## Roleplaying Traits
 
@@ -38,13 +40,8 @@ draft: false
 
 ## Goal / Motivation
 
-
 ## Secret
 
+## Background
 
-
-## Background 
-
-
-
-## statblock
+## Statblock

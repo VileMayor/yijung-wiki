@@ -2,9 +2,11 @@
 title: Chyotok Khortri
 draft: false
 ---
-###### Up: [[People MOC#Key NPCs|Key NPCs]] | [[Development Stages MOC#Room to Left to Grow]] 
+
+###### Up: [[People MOC#Key NPCs|Key NPCs]] | [[Development Stages MOC#Room to Left to Grow]]
 
 # [[Chyotok Khortri]]
+
 > [!info]
 > - Role: King of the [[Southern Orcs]]
 > - Alignment: [[Alignment MOC#Chaotic Neutral|Chaotic Neutral]]
@@ -28,9 +30,7 @@ draft: false
 
 ## Appearance
 
-
 ## Quote
-
 
 ## Roleplaying Traits
 
@@ -40,13 +40,8 @@ draft: false
 
 ## Goal / Motivation
 
-
 ## Secret
 
+## Background
 
-
-## Background 
-
-
-
-## statblock
+## Statblock

@@ -2,17 +2,19 @@
 title: Gluttimyug
 draft: false
 ---
+
 ###### Up: [[People MOC#Deities|Deities]] | [[Calendar Pantheon]] | [[Calendar Lux]]
 
 # [[Gluttimyug]]
+
 > [!info]
 > - Role: Sea God
 > - Factions: [[Calendar Pantheon]]
 ---
 > One-who-gluts || Tibetolatin | Literally "to glup"-"to devor"
 ---
-## Overview
 
+## Overview
 
 # TBD
 
@@ -28,8 +30,8 @@ draft: false
 > - Quests:
 > - Combat Suitability:
 > - Class
-## Appearance
 
+## Appearance
 
 ## Quote
 
@@ -43,10 +45,8 @@ draft: false
 
 ## Secret
 
-
-
-## Background 
+## Background
 
 ## Myth
 
-## statblock
+## Statblock

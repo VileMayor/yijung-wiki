@@ -2,10 +2,15 @@
 title: In-Game Languages
 draft: false
 ---
+
 ###### Up: [[index|Home Page]] | [[Campaign MOC]]
+
 ---
+
 # [[In-Game Languages]]
+
 ## List of Important Languages
+
 - [[Jampyul Khyamde|Khyamde]] - The Common of [[Imperium Jampyul|The Imperium]] and The [[Verdikar]].
 - [[Orcish Khyam|Khyam]] - The Language of [[Orc|Orcs]] and [[Goblin|Goblins]].
 - [[Elvish Antiquivox|Antiquivox]] - The Language of the [[Elf|Elves]].
@@ -16,8 +21,8 @@ draft: false
 - [[Koðak Issegrimal|Koðak]] - The Language of the [[Koðak]]
 - [[Dragon Kajin-gon]] - The Language of [[Dragon|Dragons]] and [[Dragonborn]].
 
-
 ## In-Links
+
 %% DATAVIEW_PUBLISHER: start
 ```dataview
 list from ""

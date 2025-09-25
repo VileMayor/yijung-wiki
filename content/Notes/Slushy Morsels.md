@@ -2,8 +2,11 @@
 title: Slushy Morsels
 draft: false
 ---
+
 ###### Up: [[Campaign MOC#Contracts|Contracts]]
+
 # [[Slushy Morsels]]
+
 ---
 > [!info]
 > - Type: Fetch Quest
@@ -12,9 +15,12 @@ draft: false
 > - Client: [[Zeldriel Mythodux|Zelda]] - [[Academy Luminaria]]'s Procurement Agent
 > - Reward: 800gp (?) - need to refine
 ---
+
 ## Overview
+
 Have thought about changing this quest to be a slower introduction where cold has gotten into the caves in made rime beast in the goblin caves.
-## Objectives (clear win conditions)
+
+## Objectives (clear Win conditions)
 
 - Primary objective: **retrieving a flora sample, a fauna sample (specifically, a Rimedeer body), and a deep ice core from the Frostlands**
 	- Players are give a [[Bag of Stasis]] by [[Zeldriel Mythodux|Zelda]] for this purpose. 
@@ -62,9 +68,7 @@ Mé Khok: The Mé Khok they possess has an increasing chance of breaking down. A
 
 Environmental Cold: When the Mé Khok fails, the players will have to endure the environmental cold. They must make a DC 12 Constitution saving throw every hour of travel. A failed save results in gaining one stack of Frostbite. If a creature accumulates 10 stacks of Frostbite, they are immediately transformed into a Rimebeast. If the party is in danger of a TPK, Chésung will appear to save them
 
-
-# TBD 
-
+# TBD
 
 Encounters & Challenges
 
@@ -83,7 +87,7 @@ Encounters & Challenges
 - Contract penalties / timeline / expectations:
 - Long-term consequences (if failed/successful):
 
-## Quick map of scenes (checklist)
+## Quick Map of Scenes (checklist)
 
 - [ ] 
     
@@ -102,7 +106,7 @@ Encounters & Challenges
     Scene 4: Wrap-up / pay-out
     
 
-## Notes / Hooks for expansion
+## Notes / Hooks for Expansion
 
 - (one-line ideas to connect this to bigger plots)
 

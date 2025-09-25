@@ -2,15 +2,19 @@
 title: Sprenga Tsokpa
 draft: false
 ---
+
 ###### Up: [[People MOC#Deities|Deities]] | [[Calendar Pantheon]] | [[Calendar Lux]]
 
 # [[Sprenga Tsokpa]]
+
 > [!info]
 > - Role: God of Seeds and Spring different from [[Elven God of Harvest]]
 > - Factions: [[Calendar Pantheon]]
 ---
 > The Spayer of the Multitude || Tibetolatin | Crass Poetically "He Who Came All Over"
+
 ## Overview
+
 # TBD
 
 - Alignment:
@@ -25,8 +29,8 @@ draft: false
 > - Quests:
 > - Combat Suitability:
 > - Class
-## Appearance
 
+## Appearance
 
 ## Quote
 
@@ -40,10 +44,8 @@ draft: false
 
 ## Secret
 
-
-
-## Background 
+## Background
 
 ## Myth
 
-## statblock
+## Statblock

@@ -2,9 +2,11 @@
 title: Shellmo
 draft: false
 ---
-###### Up: [[People MOC#Key NPCs|Key NPCs]] | [[Players#**Joe**|Joe]] | [[Grizwald’s “Heroes”-for-Hire] | [[Mana Makers]] 
+
+###### Up: [[People MOC#Key NPCs|Key NPCs]] | [[Players#**Joe**|Joe]] | [[Grizwald’s “Heroes”-for-Hire] | [[Mana Makers]]
 
 # [[Shellmo]]
+
 > [!info]
 > - Role: Joe's Character Stolen from the Campaign DM'd by [[Players#**Sam**|Sam]]
 > - Alignment:
@@ -21,14 +23,14 @@ draft: false
 > - Combat Suitability:
 > - Class:
 ---
+
 ## Overview
+
 Teleported here at the end of our campaign 80 years ago. Has since established his [[Mana Makers]] in [[Yolsa]]. And is a famous potions master.
 
 ## Appearance
 
-
 ## Quote
-
 
 ## Roleplaying Traits
 
@@ -38,13 +40,8 @@ Teleported here at the end of our campaign 80 years ago. Has since established h
 
 ## Goal / Motivation
 
-
 ## Secret
 
+## Background
 
-
-## Background 
-
-
-
-## statblock
+## Statblock
