@@ -3,9 +3,9 @@ title: Jamrig-ne
 draft: false
 ---
 
-###### Up: [[Den Chöton#Cities|Cities]] | [[Development Stages MOC]]
+###### Up: [[Den Chöton Locations MOC#Cities|Cities]] | [[Development Stages MOC#**Room To Left to Grow**]]
 
-# [[Jamrig-ne]]
+# Jamrig-ne
 
 > [!info]
 > - Type:  [[Dawnbringer's Jewels|Dawnbringer's Jewel]]                       <!-- City / Ruin / Site / Landmark -->

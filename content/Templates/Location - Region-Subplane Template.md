@@ -11,7 +11,7 @@ frontmatter.draft = false
 // Or delete the properties you don't want 
  }) }, 300) %>###### Up: <%* tR += '[[' + 'Den Chöton#Continents and Regions' + '|' + 'Continents and Regions' + ']]' %> | <%* tR += '[[' + 'Development Stages MOC' + ']]' %>
 
-# [[<% tp.file.title %>]]
+# <% tp.file.title %>
 
 > [!info]
 > - Parent World / Plane:        

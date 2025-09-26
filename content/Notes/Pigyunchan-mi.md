@@ -5,14 +5,14 @@ title: Pigyunchan-mi
 draft: false
 ---
 
-###### Up: [[Den Chöton#Continents and Regions|Continents and Regions]] | [[Development Stages MOC#**Room to Left to Grow**]]
+###### Up: [[Den Chöton Locations MOC#Continents and Regions|Continents and Regions]] | [[Development Stages MOC#**Room to Left to Grow**]]
 
-# [[Pigyunchan-mi]]
+# Pigyunchan-mi
 
 > [!info]
 > - Parent World: [[Salbé|Salbé]]         
 > - Scale: Mountain Range
-> - Location: Southern Yolsan Mountain Range<!-- continent / subplane / island chain -->  
+> - Location: South Yolsan Mountain Range<!-- continent / subplane / island chain -->  
 > - Cities / Hubs:       
 > - Climate / Biomes:                     
 > - Natural Resources:           

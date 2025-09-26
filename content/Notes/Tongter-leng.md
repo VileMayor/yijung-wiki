@@ -7,7 +7,7 @@ draft: false
 
 ###### Up: [[Campaign MOC#Environmental Effects|Environmental Effects]] | [[Frostlands]]
 
-# [[Tongter-leng]]
+# Tongter-leng
 
 > [!info]
 > - Location: Within the [[Frostlands]]. Specific places known by [[Druids of Tellus#Rangers]]

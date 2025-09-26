@@ -3,9 +3,9 @@ title: The Prudish Mermaid
 draft: false
 ---
 
-###### Up: [[Den Chöton#Places of Interest|Places of Interest]] | [[Grizwald’s “Heroes”-for-Hire]] | [[Development Stages MOC]]
+###### Up: [[Den Chöton Locations MOC#Places of Interest|Places of Interest]] | [[Grizwald’s “Heroes”-for-Hire]] | [[Development Stages MOC]]
 
-# [[The Prudish Mermaid]]
+# The Prudish Mermaid
 
 > [!info]
 > - Type: Bar; Main Base of Operations for [[Grizwald’s “Heroes”-for-Hire]]                        <!-- City / Ruin / Site / Landmark -->

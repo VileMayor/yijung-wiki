@@ -5,7 +5,7 @@ draft: false
 
 ###### Up: [[Groups MOC#Governmental Factions|Governmental Factions]] | [[Imperium Jampyul]] | [[Regentseat]]
 
-# [[Regentseat Council]]
+# Regentseat Council
 
 > [!info]
 > - Type: Council             <!-- Monarchy / Republic / Oligarchy / Theocracy / City-State -->

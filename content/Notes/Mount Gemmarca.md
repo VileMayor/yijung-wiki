@@ -3,9 +3,9 @@ title: Mount Gemmarca
 draft: false
 ---
 
-###### Up: [[Den Chöton#Places of Interest|Places of Interest]] | [[Development Stages MOC]]
+###### Up: [[Den Chöton Locations MOC#Places of Interest|Places of Interest]] | [[Development Stages MOC]]
 
-# [[Mount Gemmarca]]
+# Mount Gemmarca
 
 > [!info]
 > - Type: Mountain                      <!-- City / Ruin / Site / Landmark -->

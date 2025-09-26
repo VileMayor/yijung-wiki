@@ -6,8 +6,6 @@ aliases:
 
 ###### Up: [[index|Home Page]]
 
----
-
 # [[Campaign MOC]]
 
 ## **[[Players]]**
@@ -119,15 +117,14 @@ sort file.name asc
 ```
 %%
 
-- [[MOCs/Branches/Alignment MOC.md|Alignment MOC]]
+- [[Alignment MOC|Alignment]]
 - [[Notes/Detect Good and Evil - Mechanics.md|Detect Good and Evil - Mechanics]]
 - [[Notes/Lhachönomics.md|Lhachönomics]]
 
 %% DATAVIEW_PUBLISHER: end %%
 
 ### *[[Alignment MOC|Alignment]]*
-
-![[Alignment MOC#Overview|Alignment]]
+![[Alignment MOC#Overview]]
 
 ## **[[In-Game Languages]]**
 

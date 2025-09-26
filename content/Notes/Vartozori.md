@@ -5,9 +5,9 @@ title: Vartozori
 draft: false
 ---
 
-###### Up: [[Den Chöton#Continents and Regions|Continents and Regions]] | [[Dömling]]
+###### Up: [[Den Chöton Locations MOC#Continents and Regions|Continents and Regions]] | [[Dömling]]
 
-# [[Vartozori]]
+# Vartozori
 
 > [!info]
 > - World: [[Salbé|Salbé]]        

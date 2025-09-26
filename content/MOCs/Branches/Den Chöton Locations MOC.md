@@ -4,53 +4,25 @@ title: Den Chöton
 draft: false
 ---
 
-###### Up: [[Multiverse MOC#**Planes**|Planes]] | [[index|Home Page]]
+###### Up: [[index|Home Page]] | [[Den Chöton]]
 
-# [[Den Chöton]]
-
-### Info
-
-> [!info]
-> - Type:           <!-- Material Plane / Inner Plane / Outer Plane / Demiplane -->  
-> - Dominant Theme: The [[God Realm]]
-> - Magic & Natural Laws:     
-> - Time Flow: Normal                 <!-- normal / fast / variable -->
-> - Physical Peculiarities:      
-> - Portals & Connections:      
-> - Major Domains / Capitals:    
-> - Hazards & Restrictions:      
-> - Economy / Resources:         
-> - Factional Powers:            
-> - Secrets / Anomalies:         
-> - Recommended PC Level / Threat:
----
-> Den Chöton | Faithful Realm || Tibetan
----
-
-## Overview
-
-> Faithful Realm || Tibetan
-
-This is the plane in which our campaign is set
-
-## Locations List
-
-### **Worlds**
+# [[Den Chöton Locations MOC]]
+## **Worlds**
 
 Actual Planets
 %% DATAVIEW_PUBLISHER: start
 ```dataview
 list from ""
-where contains(file.outlinks, [[Den Chöton#Worlds]])
+where contains(file.outlinks, [[Den Chöton Locations MOC#Worlds]])
 SORT file.name ASC
 ```
 %%
 
-- [[MOCs/Branches/Salbé.md|Salbé]]
+- [[Salbé|Salbé]]
 
 %% DATAVIEW_PUBLISHER: end %%
 
-#### *Continents And Regions*
+### *Continents And Regions*
 
 From All Worlds
 %% DATAVIEW_PUBLISHER: start
@@ -70,13 +42,13 @@ sort file.name asc
 
 %% DATAVIEW_PUBLISHER: end %%
 
-##### *Cities*
+#### *Cities*
 
 From all worlds
 %% DATAVIEW_PUBLISHER: start
 ```dataview
 list from ""
-where contains(file.outlinks, [[Den Chöton#Cities]])
+where contains(file.outlinks, [[Den Chöton Locations MOC#Cities]])
 SORT file.name ASC
 ```
 %%
@@ -95,13 +67,13 @@ SORT file.name ASC
 
 %% DATAVIEW_PUBLISHER: end %%
 
-###### *Places Of Interest*
+##### *Places Of Interest*
 
 Other Locations
 %% DATAVIEW_PUBLISHER: start
 ```dataview
 list from ""
-where contains(file.outlinks, [[Den Chöton#*Places of Interest*]])
+where contains(file.outlinks, [[Den Chöton Locations MOC#*Places of Interest*]])
 SORT file.name ASC
 ```
 %%
@@ -113,9 +85,3 @@ SORT file.name ASC
 - [[Notes/The Prudish Mermaid.md|The Prudish Mermaid]]
 
 %% DATAVIEW_PUBLISHER: end %%
-
-## Magic
-
-![[Den Chöton Magical Theory#Overview]]
-
-## Travel & Access

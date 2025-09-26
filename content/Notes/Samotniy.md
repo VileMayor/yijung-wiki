@@ -5,7 +5,7 @@ draft: false
 
 ###### Up: [[People MOC#Deities|Deities]] | [[Development Stages MOC]]
 
-# [[Samotniy]]
+# Samotniy
 
 > [!info]
 > - Role: Goliath God stuck on earth in [[Concursudio]] started the [[werewolf|loneliness]]

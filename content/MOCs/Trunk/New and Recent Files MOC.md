@@ -4,17 +4,17 @@ draft: false
 aliases:
 ---
 
-###### Up: [[index]] | [[Development Stages MOC#**Low Priority**]]
+###### Up: [[index|Home Page]] 
 
 ---
 
-# [[New and Recent Files]]
+# [[New and Recent Files MOC]]
 
 ## New Files
 
 %% DATAVIEW_PUBLISHER: start
 ```dataview
-    TABLE dateformat(file.ctime, "MM/dd/yy") + " - " + dateformat(file.ctime, "hh:mm a") as "Last Modified"
+    TABLE dateformat(file.ctime, "MM/dd/yy") + " - " + dateformat(file.ctime, "hh:mm a") as "Created"
     FROM ""
     SORT file.ctime DESC
     LIMIT 10
@@ -30,7 +30,7 @@ aliases:
     TABLE dateformat(file.mtime, "MM/dd/yy") + " - " + dateformat(file.mtime, "hh:mm a") as "Last Modified"
     FROM ""
     SORT file.mtime DESC
-    LIMIT 10
+    LIMIT 25
 
 ```
 %%

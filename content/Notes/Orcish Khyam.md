@@ -7,7 +7,7 @@ draft: false
 
 ###### Up: [[In-Game Languages]]
 
-# [[Orcish Khyam]]
+# Khyam
 
 ---
 > Khyam | Tongue (Language) || Tibetan

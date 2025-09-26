@@ -7,7 +7,7 @@ tags:
 
 ###### Up: [[Campaign MOC#Magic Items|Magic Items]]
 
-# [[Bag of Stasis]]
+# Bag of Stasis
 
 ---
 _Wondrous Item, Common_

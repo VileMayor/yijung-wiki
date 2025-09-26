@@ -5,7 +5,7 @@ draft: false
 
 ###### Up: [[Den Chöton Magical Theory]]
 
-# [[Damtsig-pa]]
+# Damtsig-pa
 
 ---
 >The Commited || Tibetan | Literally "Vow One"

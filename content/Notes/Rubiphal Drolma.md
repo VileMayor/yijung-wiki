@@ -5,7 +5,7 @@ draft: false
 
 ###### Up: [[People MOC#Deities|Deities]] | [[Calendar Pantheon]] | [[Calendar Lux]]
 
-# [[Rubiphal Drolma]]
+# Rubiphal Drolma
 
 > [!info]
 > - Factions: [[Calendar Pantheon]]

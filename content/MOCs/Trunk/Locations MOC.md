@@ -1,18 +1,22 @@
 ---
-title: Multiverse MOC
+title: Locations MOC
 draft: false
 aliases:
 ---
 
 ###### Up:: [[index|Home Page]]
 
-# [[Yijung]]
+# Locations MOC
 
----
+## **The Multiverse** 
 
-## [[Den Chöton]]
+[[Yijung]]
 
-![[Den Chöton#Locations List]]
+## **Campaign Plane**
+
+ [[Den Chöton Locations MOC]]
+
+![[Den Chöton Locations MOC#Locations List]]
 
 ## **Planes**
 
@@ -20,12 +24,12 @@ Universes
 %% DATAVIEW_PUBLISHER: start
 ```dataview
 list from ""
-where contains(file.outlinks, [[Multiverse MOC#**Planes**]])
+where contains(file.outlinks, [[Locations MOC#**Planes**]])
 sort file.name asc
 ```
 %%
 
-- [[MOCs/Branches/Den Chöton.md|Den Chöton]]
+- [[Den Chöton Locations MOC|Den Chöton Locations MOC]]
 - [[Notes/Fae Plane.md|Fae Plane]]
 - [[index.md|index]]
 
@@ -37,7 +41,7 @@ Pocket Dimensions - Different from realms
 %% DATAVIEW_PUBLISHER: start
 ```dataview
 list from ""
-where contains(file.outlinks, [[Multiverse MOC#*Sub-Planes*]])
+where contains(file.outlinks, [[Locations MOC#*Sub-Planes*]])
 sort file.name asc
 ```
 %%
@@ -52,7 +56,7 @@ Part of the same plane but for different life forms. 6 realms buddhism style.
 %% DATAVIEW_PUBLISHER: start
 ```dataview
 list from ""
-where contains(file.outlinks, [[Multiverse MOC#**Realms Types**]])
+where contains(file.outlinks, [[Locations MOC#**Realms Types**]])
 sort file.name asc
 ```
 %%
@@ -66,7 +70,7 @@ sort file.name asc
 %% DATAVIEW_PUBLISHER: start
 ```dataview
 list from ""
-where contains(file.outlinks, [[Multiverse MOC#*Realms*]])
+where contains(file.outlinks, [[Locations MOC#*Realms*]])
 sort file.name asc
 ```
 %%

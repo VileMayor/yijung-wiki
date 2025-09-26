@@ -7,7 +7,7 @@ draft: false
 
 ###### Up: [[People MOC#Key NPCs|Key NPCs]] | [[Development Stages MOC]]
 
-# [[Kharub Lodor]]
+# Kharub Lodor
 
 > [!info]
 > - Role: Guide for Slushie Flows;

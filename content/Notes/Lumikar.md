@@ -5,7 +5,7 @@ draft: false
 
 ###### Up: [[People MOC#Deities|Deities]] | [[Calendar Pantheon]] | [[Calendar Lux]]
 
-# [[Lumikar]]
+# Lumikar
 
 > [!info]
 > - Role: Sun God, Father of the moons

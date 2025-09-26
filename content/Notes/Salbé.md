@@ -5,9 +5,9 @@ title: Salbé
 draft: false
 ---
 
-###### Up: [[Den Chöton#Worlds]]
+###### Up: [[Den Chöton Locations MOC#Worlds]]
 
-# [[Salbé|Salbé]]
+# Salbé
 
 ---
 >Hidden & Clear || Tibetan || Metaphorical Translation of [[Palimpsest (Theme)|Palimpsest]]

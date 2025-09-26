@@ -8,7 +8,7 @@ draft: false
 
 ###### Up: [[People MOC#Playable Species|Playable Species]] | [[Development Stages MOC#**Room to Left to Grow**]]
 
-# [[Dwarf]]
+# Dwarf
 
 > [!info]
 > - Common Name:

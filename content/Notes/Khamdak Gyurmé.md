@@ -8,7 +8,7 @@ draft: false
 
 ###### Up: [[People MOC#Deities|Deities]] | [[Development Stages MOC#**Requires Consideration**|Requires Consideration]]
 
-# [[Khamdak Gyurmé]]
+# Khamdak Gyurmé
 
 > [!info]
 > - Role:  Monk who is the cause of [[Yijung]]

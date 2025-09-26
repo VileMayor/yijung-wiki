@@ -7,7 +7,7 @@ draft: false
 
 ###### Up: [[Campaign MOC#Magic Items|Magic Items]]
 
-# [[Mé Khok]]
+# Mé Khok
 
 Wondrous Item, Rare
 

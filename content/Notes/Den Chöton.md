@@ -1,26 +1,17 @@
 ---
-title: Location - World-Plane Template
-draft: true
+title: Den Chöton
+draft: false
 aliases:
 ---
-<%* setTimeout(() => { // Get the path to the new file 
-const newFile = tp.file.find_tfile(tp.file.path(true)) // Process the frontmatter 
-app.fileManager.processFrontMatter(newFile, (frontmatter) => { // Add a new field 
-frontmatter.title = tp.file.title
-frontmatter.draft = false
-// Or delete the properties you don't want 
- }) }, 300) %>###### Up: <%* tR += '[[' + 'Den Chöton#Worlds' + '|' + 'Worlds' + ']]' %> | <%* tR += '[[' + 'Development Stages MOC' + ']]' %>
+###### Up: [[Den Chöton#Worlds|Worlds]] | [[Development Stages MOC#**Low Priority**]]
 
-# <% tp.file.title %>
+# Den Chöton
 
 > [!info]
-> - Type:                        <!-- Material Plane / Inner Plane / Outer Plane / Demiplane -->
-> - Cosmological Position:       <!-- e.g., "Neighbor of X", "Under the World" -->
-> - Dominant Theme / Alignment:  
-> - Native/Primary Inhabitants:
-> - Powerful Entities / Deities:
-> - Magic & Natural Laws:       
-> - Time Flow:                   <!-- normal / fast / variable -->
+> - Type:           <!-- Material Plane / Inner Plane / Outer Plane / Demiplane -->  
+> - Dominant Theme: The [[God Realm]]
+> - Magic & Natural Laws:     
+> - Time Flow: Normal                 <!-- normal / fast / variable -->
 > - Physical Peculiarities:      
 > - Portals & Connections:      
 > - Major Domains / Capitals:    
@@ -30,10 +21,21 @@ frontmatter.draft = false
 > - Secrets / Anomalies:         
 > - Recommended PC Level / Threat:
 ---
-
+> Den Chöton | Faithful Realm || Tibetan
+---
 ## Overview
 
-Concise description of the realm’s feel and role in the setting.
+> Faithful Realm || Tibetan
+
+This is the plane in which our campaign is set.
+
+
+## Magic
+
+![[Den Chöton Magical Theory#Overview]]
+
+# TBD
+## Travel & Access
 
 ## Cosmology & Boundaries
 

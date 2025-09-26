@@ -5,7 +5,7 @@ draft: false
 
 ###### Up: [[Groups MOC#Guilds|Guilds]] | [[The Narradei]]
 
-# [[Deifractoria]]
+# Deifractoria
 
 > [!info]
 > - Type: Secret Faction within [[The Narradei]]                      <!-- Guild / Revolutionary Cell / Mercantile House / Secret Society -->

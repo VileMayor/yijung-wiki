@@ -3,9 +3,9 @@ title: Regentseat
 draft: false
 ---
 
-###### Up: [[Den Chöton#Cities|Cities]] | [[Imperium Jampyul]]
+###### Up: [[Den Chöton Locations MOC#Cities|Cities]] | [[Imperium Jampyul]]
 
-# [[Regentseat]]
+# Regentseat
 
 > [!info]
 > - Type: [[Dawnbringer's Jewels|Dawnbringer's Jewel - Crown Jewel]] [[Capital]] <!-- City / Ruin / Site / Landmark -->

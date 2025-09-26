@@ -5,7 +5,7 @@ draft: false
 
 ###### Up: [[People MOC#Deities|Deities]] | [[Development Stages MOC]]
 
-# [[Gemmiger]]
+# Gemmiger
 
 > [!info]
 > - Role: Mountain Spirit that first took in Tellus and the Elves; Father of [[Schmiedevater]]

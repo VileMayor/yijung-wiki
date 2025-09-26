@@ -7,7 +7,7 @@ draft: false
 
 ###### Up: [[In-Game Languages]]
 
-# [[Dwarvish Steinsprache|Steinsprache]]
+# Steinsprache
 
 ---
 > Stone-Speech || German

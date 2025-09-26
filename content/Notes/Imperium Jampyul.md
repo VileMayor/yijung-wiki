@@ -7,7 +7,7 @@ draft: false
 
 ###### Up: [[Groups MOC#Governments|Governments]] | [[Development Stages MOC]]
 
-# [[Imperium Jampyul]]
+# Imperium Jampyul
 
 > [!info]
 > - Type:                        <!-- Monarchy / Republic / Oligarchy / Theocracy / City-State -->

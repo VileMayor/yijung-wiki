@@ -11,7 +11,7 @@ frontmatter.draft = false
 // Or delete the properties you don't want 
  }) }, 300) %>###### Up: <%* tR += '[[' + 'Groups MOC|Insert HERE]]' %> | <%* tR += '[[' + 'Development Stages MOC' + ']]' %>
 
-# [[<% tp.file.title %>]]
+# <% tp.file.title %>
 
 > [!info]
 > - Type:                       <!-- Guild / Revolutionary Cell / Mercantile House / Secret Society -->

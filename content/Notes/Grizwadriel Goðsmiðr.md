@@ -4,11 +4,9 @@ aliases:
 title: Grizwadriel Goðsmiðr
 ---
 
-# Grizwadriel Goðsmiðr
-
 ###### Up: [[People MOC#Key NPCs|Key NPCs]] | [[Development Stages MOC#**Requires Player Input**]]
 
-## [[Grizwadriel Goðsmiðr]]
+# Grizwadriel Goðsmiðr
 
 > [!info]
 > - Role: Owner/Operator of Grizwald’s “Heroes”-for-Hire

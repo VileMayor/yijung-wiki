@@ -8,7 +8,7 @@ draft: false
 
 ###### Up: [[People MOC#Playable Species|Playable Species]] | [[Development Stages MOC#**Requires Consideration**]]
 
-# [[Goblin]]
+# Goblin
 
 > [!info]
 > - Endonyms: [[Goblin|Ur Ur]]

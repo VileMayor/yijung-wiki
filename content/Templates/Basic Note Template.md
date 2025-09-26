@@ -11,7 +11,7 @@ frontmatter.draft = false
 // Or delete the properties you don't want 
  }) }, 300) %>###### Up: <%* tR += '[[' + 'Development Stages MOC' + ']]' %>
 
-# [[<% tp.file.title %>]]
+# <% tp.file.title %>
 
 ---
 

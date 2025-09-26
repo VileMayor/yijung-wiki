@@ -1,29 +1,11 @@
 ---
-title: People MOC
+title: People
 draft: false
 ---
 
-# People MOC
+# [[People MOC]]
 
 ###### Up: [[index|Home Page]]
-
-## **Species**
-
-### *Playable Species*
-
-```dataview
-list from ""
-where contains(file.outlinks, [[People MOC#Playable Species]])
-sort file.mtime desc
-```
-
-### *Non-Playable Species*
-
-```dataview
-list from ""
-where contains(file.outlinks, [[People MOC#Non-Playable Species]])
-sort file.mtime desc
-```
 
 ## **NPCs**
 
@@ -56,5 +38,22 @@ sort file.mtime desc
 ```dataview
 list from ""
 where contains(file.outlinks, [[People MOC#Deities]])
+sort file.mtime desc
+```
+## **Species**
+
+### *Playable Species*
+
+```dataview
+list from ""
+where contains(file.outlinks, [[People MOC#Playable Species]])
+sort file.mtime desc
+```
+
+### *Non-Playable Species*
+
+```dataview
+list from ""
+where contains(file.outlinks, [[People MOC#Non-Playable Species]])
 sort file.mtime desc
 ```

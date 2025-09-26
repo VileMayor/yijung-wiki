@@ -7,8 +7,7 @@ draft: false
 
 ###### Up: [[In-Game Languages]]
 
-# [[Elvish Antiquivox|Antiquivox]]
-
+# Elvish Antiquivox|Antiquivox
 ---
 >Ancient Voice || Latin
 ---

@@ -5,9 +5,9 @@ title: Tlamanal
 draft: false
 ---
 
-###### Up: [[Den Chöton#Cities|Cities]] | [[Dawnbringer's Jewels#Tlamanal|Dawnbringer's Jewel]]
+###### Up: [[Den Chöton Locations MOC#Cities|Cities]] | [[Dawnbringer's Jewels#Tlamanal|Dawnbringer's Jewel]]
 
-# [[Tlamanal]]
+# Tlamanal
 
 > [!info]
 > - Type: [[Dawnbringer's Jewels#Tlamanal|Human Jewel]]                       <!-- City / Ruin / Site / Landmark -->

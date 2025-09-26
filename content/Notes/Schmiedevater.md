@@ -5,11 +5,9 @@ title: Schmiedevater
 draft: false
 ---
 
-# Schmiedevater
-
 ###### Up: [[People MOC#Deities|Deities]] | [[Development Stages MOC]]
 
-## [[Schmiedevater]]
+# Schmiedevater
 
 > [!info]
 > - Role: Creator of Dwarves; Imprisoned [[Cruentus]]

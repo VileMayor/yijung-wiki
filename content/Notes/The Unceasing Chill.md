@@ -7,7 +7,7 @@ draft: false
 
 ###### Up: [[Campaign MOC#Environmental Effects|Environmental Effects]] | [[Frostlands]]
 
-# [[The Unceasing Chill]]
+# The Unceasing Chill
 
 > [!info]
 > - Location: Within and surrounding the [[Frostlands]]

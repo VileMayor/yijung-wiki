@@ -5,9 +5,9 @@ title: Rangnunc
 draft: false
 ---
 
-###### Up: [[Den Chöton#Cities|Cities]] | [[Dawnbringer's Jewels#Rangnunc - Verdikar/Human Jewel|Dawnbringer's Jewel]]
+###### Up: [[Den Chöton Locations MOC#Cities|Cities]] | [[Dawnbringer's Jewels#Rangnunc - Verdikar/Human Jewel|Dawnbringer's Jewel]]
 
-# [[Rangnunc]]
+# Rangnunc
 
 > [!info]
 > - Type: [[Dawnbringer's Jewels#Rangnunc - Verdikar/Human Jewel|Verdikar/Human Jewel]]                       <!-- City / Ruin / Site / Landmark -->

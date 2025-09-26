@@ -5,7 +5,7 @@ draft: false
 
 ###### Up: [[Groups MOC#TBA|Insert Here]] | [[Development Stages MOC]]
 
-# [[The Gilded Fist]]
+# The Gilded Fist
 
 > [!info]
 > - Type: Crime Syndicate      <!-- Guild / Revolutionary Cell / Mercantile House / Secret Society -->

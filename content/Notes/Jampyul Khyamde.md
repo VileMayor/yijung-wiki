@@ -7,7 +7,7 @@ draft: false
 
 ###### Up: [[In-Game Languages]]
 
-# [[Jampyul Khyamde]]
+# Jampyul Khyamde
 
 ___
 > Khyamde | Gentled Speech || Tibetan 

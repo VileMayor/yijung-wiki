@@ -3,9 +3,9 @@ title: Grizwald’s “Heroes”-for-Hire
 draft: false
 ---
 
-###### Up: [[Groups MOC#Guilds|Guilds]] | [[Development Stages MOC]]
+###### Up: [[Groups MOC#Guilds|Guilds]] | [[Development Stages MOC#**Requires Player Input**]]
 
-# [[Grizwald’s “Heroes”-for-Hire]]
+# Grizwald’s “Heroes”-for-Hire
 
 > [!info]
 > - Type: Adventuring Guild <!-- Guild / Revolutionary Cell / Mercantile House / Secret Society -->

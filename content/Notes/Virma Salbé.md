@@ -5,7 +5,7 @@ draft: false
 
 ###### Up: [[People MOC#Deities|Deities]] | [[Calendar Pantheon]] | [[Calendar Lux]]
 
-# [[Virma Salbé]]
+# Virma Salbé
 
 > [!info]
 > - Role: Mother Salbé; Nature Goddess

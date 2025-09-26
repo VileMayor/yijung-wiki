@@ -5,7 +5,7 @@ draft: false
 
 ###### Up: [[People MOC#Deities|Deities]] | [[Calendar Pantheon]] | [[Calendar Lux]]
 
-# [[Caeliblatha]]
+# Caeliblatha
 
 > [!info]
 > - Role: God of the sky

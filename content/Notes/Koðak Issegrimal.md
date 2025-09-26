@@ -7,10 +7,10 @@ draft: false
 
 ###### Up: [[In-Game Languages]]
 
-# [[Koðak Issegrimal]]
+# Issegrimal
 
 ---
-> Issegrimal | Ice Jewel Speech/Language
+> Ice Jewel Speech/Language
 ---
 
 ## Speakers

@@ -3,9 +3,9 @@ title: Metallic Bonds
 draft: false
 ---
 
-###### Up: [[Campaign MOC#Contracts|Contracts]]
+###### Up: [[Campaign MOC#Contracts|Contracts]] | [[Development Stages MOC]]
 
-# [[Metallic Bonds]]
+# Metallic Bonds
 
 ---
 > [!info]

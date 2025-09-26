@@ -7,7 +7,7 @@ draft: false
 
 ###### Up: [[In-Game Languages]]
 
-# [[Goliath Yazyk|Yazyk]]
+# Yazyk
 
 ---
 > Tongue (language) | *archaic* || Ukranian

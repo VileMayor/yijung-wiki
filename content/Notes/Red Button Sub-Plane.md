@@ -1,12 +1,12 @@
 ---
-title: Red Button World
+title: Red Button Sub-Plane
 draft: false
 aliases:
 ---
 
 ###### Up: [[Development Stages MOC#**Room to Left to Grow**]]
 
-# [[Red Button World]]
+# Red Button Sub-Plane
 
 ---
 

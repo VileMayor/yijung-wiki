@@ -3,9 +3,9 @@ title: Yolsa
 draft: false
 ---
 
-###### Up: [[Den Chöton#Continents and Regions|Continents and Regions]] | [[Development Stages MOC#**Low Priority**]]
+###### Up: [[Den Chöton Locations MOC#Continents and Regions|Continents and Regions]] | [[Development Stages MOC#**Low Priority**]]
 
-# [[Yolsa]]
+# Yolsa
 
 > [!info]
 > - Parent World: [[Salbé]]      

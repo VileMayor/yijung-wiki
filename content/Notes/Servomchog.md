@@ -7,7 +7,7 @@ draft: false
 
 ###### Up: [[People MOC#Incidental NPCs|Incidental NPCs]] | [[Development Stages MOC]]
 
-# [[Servomchog]]
+# Servomchog
 
 > [!info]
 > - Role: Puts in contracts that the [[Imperatrix Lux]] doesn't want linked back to her.

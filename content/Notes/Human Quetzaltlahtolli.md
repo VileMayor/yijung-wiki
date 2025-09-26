@@ -7,7 +7,7 @@ draft: false
 
 ###### Up: [[In-Game Languages]]
 
-# [[Human Quetzaltlahtolli|Quetzaltlahtolli]]
+# Quetzaltlahtolli
 
 ---
 > Feathered Speech || Nahuatl

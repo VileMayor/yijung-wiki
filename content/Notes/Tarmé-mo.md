@@ -6,11 +6,10 @@ title: Tarmé-mo
 draft: false
 ---
 
-# Tarmé-mo
 
 ###### Up: [[People MOC#Legendary NPCs|Legendary NPCs]] | [[Development Stages MOC]]
 
-## [[Tarmé-mo]]
+# Tarmé-mo
 
 > [!info]
 > - Role: Oldest Living Mortal, Leader of Frost Orcs; United with [[Tellus]] to form the [[Tarmé-mo|Mi Kye Ma]]

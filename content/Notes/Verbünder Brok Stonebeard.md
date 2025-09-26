@@ -3,7 +3,7 @@ title: Verbünder Brok Stonebeard
 ---
 E###### Up: [[People MOC#Incidental NPCs|Incidental NPCs]] | [[Development Stages MOC#**Requires Consideration**]] 
 
-# [[Verbünder Brok Stonebeard]]
+# Verbünder Brok Stonebeard
 
 > [!info]
 > - Role: Ambassador from [[Die Gottschmiedetron]] trying to establish a mithril trade deal. 

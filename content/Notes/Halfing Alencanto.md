@@ -7,7 +7,7 @@ draft: false
 
 ###### Up: [[In-Game Languages]]
 
-# [[Halfing Alencanto]]
+# Halfing Alencanto
 
 ---
 >Windsong || Castilian Spanish

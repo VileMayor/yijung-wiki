@@ -5,7 +5,7 @@ draft: false
 
 ###### Up: [[Groups MOC#Governmental Factions|Governmental Factions]] | [[Regentseat Council]]
 
-# [[House Aemulus]]
+# House Aemulus
 
 > [!info]
 > - Type: Noble House                      <!-- Monarchy / Republic / Oligarchy / Theocracy / City-State -->

@@ -5,7 +5,7 @@ draft: false
 
 ###### Up: [[People MOC#Key NPCs|Key NPCs]] | [[Development Stages MOC]]
 
-# [[Ghost]]
+# Ghost
 
 > [!info]
 > - Role: Operations Manager of  [[Grizwald’s “Heroes”-for-Hire]]

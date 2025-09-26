@@ -5,7 +5,7 @@ draft: false
 
 ###### Up: [[content/index|Home Page]] | [[Development Stages MOC#**Room to Left to Grow**]]
 
-# [[Calendar Lux]]
+# Calendar Lux
 
 ---
 

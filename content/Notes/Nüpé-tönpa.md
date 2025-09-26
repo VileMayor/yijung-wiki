@@ -5,7 +5,7 @@ draft: false
 
 ###### Up: [[Den Chöton Magical Theory]]
 
-# [[Nüpé-tönpa]]
+# Nüpé-tönpa
 
 ---
 >Master of Power || Tibetan 

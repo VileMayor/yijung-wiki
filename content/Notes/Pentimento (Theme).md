@@ -6,7 +6,7 @@ draft: false
 ---
 E###### Up: [[Themes & Inspirations]]
 
-# [[Pentimento (Theme)|Pentimento]]
+# Pentimento
 
 ---
 >  a visible trace of earlier painting beneath a layer or layers of paint on a canvas.

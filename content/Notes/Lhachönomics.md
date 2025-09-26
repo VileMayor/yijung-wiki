@@ -5,9 +5,9 @@ title: Lhachönomics
 draft: false
 ---
 
-###### Up: [[Campaign MOC#Mechanics|Mechanics]]
+###### Up: [[Campaign MOC#Mechanics|Mechanics]] | [[Development Stages MOC#**Room To Left to Grow**]]
 
-# [[Lhachönomics]]
+# Lhachönomics
 
 ---
 >Laws of the Shifting Gods || Tibetolatin

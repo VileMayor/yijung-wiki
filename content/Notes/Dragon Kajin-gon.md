@@ -5,7 +5,7 @@ draft: false
 
 ###### Up: [[In-Game Languages]]
 
-# [[Dragon Kajin-gon]]
+# Dragon Kajin-gon
 
 ---
 >Flamescale Speec || Classical Sino-Japanese

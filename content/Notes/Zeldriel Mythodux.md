@@ -7,7 +7,7 @@ draft: false
 
 ###### Up: [[People MOC#Key NPCs|Key NPCs]] | [[Academy Luminaria]] | [[The Narradei]] | [[The Manaseekers]]
 
-# [[Zeldriel Mythodux]]
+# Zeldriel Mythodux
 
 > [!info]
 > - Role: A magical procurement agent for [[Academy Luminaria]]

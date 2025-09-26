@@ -5,7 +5,7 @@ draft: false
 
 ###### Up: [[People MOC#Key NPCs|Key NPCs]] | [[Development Stages MOC#Room to Left to Grow]]
 
-# [[Chyotok Khortri]]
+# Chyotok Khortri
 
 > [!info]
 > - Role: King of the [[Southern Orcs]]

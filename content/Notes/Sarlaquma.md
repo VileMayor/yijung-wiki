@@ -5,7 +5,7 @@ draft: false
 
 ###### Up: [[People MOC#Deities|Deities]] | [[Calendar Pantheon]] | [[Calendar Lux]]
 
-# [[Sarlaquma]]
+# Sarlaquma
 
 > [!info]
 > - Role:  Goddess of Harvest and Fall

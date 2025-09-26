@@ -3,9 +3,9 @@ title: Shellmo
 draft: false
 ---
 
-###### Up: [[People MOC#Key NPCs|Key NPCs]] | [[Players#**Joe**|Joe]] | [[Grizwald’s “Heroes”-for-Hire] | [[Mana Makers]]
+###### Up: [[People MOC#Key NPCs|Key NPCs]] | [[Players#**Joe**|Joe]] | [[Grizwald’s “Heroes”-for-Hire]] | [[Mana Makers]]
 
-# [[Shellmo]]
+# Shellmo
 
 > [!info]
 > - Role: Joe's Character Stolen from the Campaign DM'd by [[Players#**Sam**|Sam]]

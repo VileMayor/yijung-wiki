@@ -5,9 +5,9 @@ title: Lentomthol
 draft: false
 ---
 
-###### Up: [[Multiverse MOC#*Sub-Plane*|Sub-Plane]] | [[Den Chöton#Places of Interest|Place of Interest]] | [[Domusargha]]
+###### Up: [[Locations MOC#*Sub-Plane*|Sub-Plane]] | [[Den Chöton Locations MOC#Places of Interest|Place of Interest]] | [[Domusargha]]
 
-# [[Lentomthol]]
+# Lentomthol
 
 > [!info]
 > - Type: Sub-Plane                       <!-- City / Ruin / Site / Landmark -->

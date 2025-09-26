@@ -4,9 +4,9 @@ title: The Narradei
 draft: false
 ---
 
-###### Up: [[Groups MOC#Guilds|Guilds]]
+###### Up: [[Groups MOC#Guilds|Guilds]] | [[Development Stages MOC#**Requires Player Input**]]
 
-# [[The Narradei]]
+# The Narradei
 
 > [!info]
 > - Type: Guild of Story-Tellers that do Community Works                       <!-- Guild / Revolutionary Cell / Mercantile House / Secret Society -->

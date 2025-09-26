@@ -7,7 +7,7 @@ draft: false
 
 ###### Up: [[People MOC#Legendary NPCs|Legendary NPCs]] | [[The Narradei]] | [[Testudox University]] | [[Deifractoria]] | [[Mana Makers]]
 
-# [[Oscario]]
+# Oscario
 
 > [!info]
 > - Role: Founder of several secret orders; Former lover of [[Deorumors]]. 
@@ -141,7 +141,7 @@ He began to have dreams of being stuck in the pocket as plane after plane was bo
 
 ### Time Stops - A Call for Help
 
-Several stops before the [[Creation of the Frostlands]] they developed a way to communicate with [[Oscario]] and a way to teleport people from certain other realms to [[Den Chöton|Den Chöton]].  The time delay made it painful but it could be done to communicate extremely important information. Used to communicate updates to the Time Pocket, Oscario mostly communicated back with predetermined code so that more information could be communicated with a single symbol. He put even more plans inplace to summon his brother for aid if the need arose setting up basically a dead mans switch. 
+Several stops before the [[Creation of the Frostlands]] they developed a way to communicate with [[Oscario]] and a way to teleport people from certain other realms to [[Den Chöton Locations MOC|Den Chöton Locations MOC]].  The time delay made it painful but it could be done to communicate extremely important information. Used to communicate updates to the Time Pocket, Oscario mostly communicated back with predetermined code so that more information could be communicated with a single symbol. He put even more plans inplace to summon his brother for aid if the need arose setting up basically a dead mans switch. 
 
 He noticed the lack of updates pretty quickly and his divinatory senses confirmed. Has nothing to do now but hope that his brother will find him soon. As he tries to divine all that he can about the [[Threat from Across the Seas]]
 

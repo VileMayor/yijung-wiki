@@ -5,7 +5,7 @@ draft: false
 
 ###### Up: [[People MOC#Deities|Deities]] | [[Calendar Pantheon]] | [[Calendar Lux]]
 
-# [[Mortsekha]]
+# Mortsekha
 
 > [!info]
 > - Role: God Ruling the Underworld

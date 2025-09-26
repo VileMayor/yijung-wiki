@@ -5,9 +5,9 @@ title: Dömling
 draft: false
 ---
 
-###### Up: [[Den Chöton#Continents and Regions|Den Chöton Continents and Regions]] | [[Salbé|Salbé]]
+###### Up: [[Den Chöton Locations MOC#Continents and Regions|Den Chöton Continents and Regions]] | [[Salbé|Salbé]]
 
-# [[Dömling|Dömling]] [[Salbé]]
+# Dömling
 
 > [!info]
 > - Parent World: [[Salbé]]

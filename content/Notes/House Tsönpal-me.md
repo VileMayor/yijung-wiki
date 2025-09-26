@@ -5,7 +5,7 @@ draft: false
 
 ###### Up: [[Development Stages MOC]]
 
-# [[House Tsönpal-me]]
+# House Tsönpal-me
 
 ---
 > Power without Glory || Tibetan

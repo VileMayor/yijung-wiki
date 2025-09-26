@@ -5,11 +5,9 @@ aliases:
   - Trakgö-pa
 ---
 
+###### Up: [[[People MOC#Deities|Deities]] | [[Development Stages MOC#**Requires Consideration**]]
 # Cruentus
 
-###### Up: [[[People MOC#Deities|Deities]] | [[Development Stages MOC#**Requires Consideration**]]
-
-## [[Cruentus]]
 
 > [!info]
 > - Role: Elven God of War; Tried to become physical starting [[War of The Felled Star]] and [[Concursudio]]
@@ -53,6 +51,8 @@ His change was caused by jealousy of [[Schmiedevater|his brother’s]]
 
 ## Background
 
-### Birthright
+### Born to War
+
+Conceived as an [[Elf|Elven]] God of War during [[Elven Arrival#Bellumintentio]]; for a people who needed him desperately, he
 
 ## Myth

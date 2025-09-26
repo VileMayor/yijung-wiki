@@ -3,11 +3,10 @@ title: Deorumors
 draft: false
 ---
 
-# Deorumors
 
 ###### Up: [[People MOC#Deities|Deities]] | [[Development Stages MOC]]
 
-## [[Deorumors]]
+# Deorumors
 
 > [!info]
 > - Role: Stillborn Goddess of Knowledge/Technology; Can remember changes to the god realm. 

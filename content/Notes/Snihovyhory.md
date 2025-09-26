@@ -5,9 +5,9 @@ title: Snihovyhory
 draft: false
 ---
 
-###### Up: [[Den Chöton#Continents and Regions|Continents and Regions]] | [[Development Stages MOC#**Room to Left to Grow**]]
+###### Up: [[Den Chöton Locations MOC#Continents and Regions|Continents and Regions]] | [[Development Stages MOC#**Room to Left to Grow**]]
 
-# [[Snihovyhory]]
+# Snihovyhory
 
 > [!info]
 > - Parent World: [[Salbé|Salbé]]      

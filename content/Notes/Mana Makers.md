@@ -5,7 +5,7 @@ draft: false
 
 ###### Up: [[Groups MOC#Guilds|Guilds]] | [[Development Stages MOC#**Requires Player Input**]]
 
-# [[Mana Makers]]
+# Mana Makers
 
 > [!info]
 > - Type: Secret Society of Alchemists                   <!-- Guild / Revolutionary Cell / Mercantile House / Secret Society -->

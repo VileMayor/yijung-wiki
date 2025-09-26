@@ -5,9 +5,9 @@ title: "Dawnbringer's Jewels"
 draft: false
 ---
 
-###### Up: [[Den Chöton#Places of Interest|Places of Interest]]
+###### Up: [[Den Chöton Locations MOC#Places of Interest|Places of Interest]]
 
-# [[Dawnbringer's Jewels]]
+# Dawnbringer's Jewels
 
 > [!info]
 > - Type: Legendary Collection of Cities           <!-- City / Ruin / Site / Landmark -->

@@ -5,9 +5,9 @@ title: Luxanna Öbeb III
 draft: false
 ---
 
-###### Up: [[People MOC#Key NPCs|Key NPCs]] | [[Development Stages MOC]]
+###### Up: [[People MOC#Key NPCs|Key NPCs]] | [[Development Stages MOC#**Room To Left to Grow**]]
 
-# [[Luxanna Öbeb III]]
+# Luxanna Öbeb III
 
 > [!info]
 > - Role: Current Imperatrix Lux

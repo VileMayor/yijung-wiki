@@ -3,7 +3,7 @@ title: Lonesome Howls
 draft: false
 ---
 
-###### Up: [[Campaign MOC#Contracts|Contracts]]
+###### Up: [[Campaign MOC#Contracts|Contracts]] | [[Development Stages MOC]]
 
 # [[Lonesome Howls]]
 

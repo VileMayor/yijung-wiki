@@ -5,7 +5,7 @@ draft: false
 
 ###### Up: [[People MOC#Legendary NPCs|Legendary NPCs]] | [[Grizeldriel Öbeb]] | [[Oscario]]
 
-# [[Dawnbringer]]
+# Dawnbringer
 
 > [!info]
 > - Role: Mythic Figure that saved [[Yolsa]] from [[The Fallingstar]]

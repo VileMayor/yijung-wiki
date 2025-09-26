@@ -4,9 +4,9 @@ draft: false
 aliases:
 ---
 
-###### Up: [[Den Chöton#Cities|Cities]] | [[Development Stages MOC]]
+###### Up: [[Den Chöton Locations MOC#Cities|Cities]] | [[Development Stages MOC]]
 
-# [[Elf]]
+# Elf
 
 > [!info]
 > - Type:                        <!-- City / Ruin / Site / Landmark -->
@@ -50,7 +50,7 @@ A short evocative paragraph describing the location at a glance.
 
 ## History / Origin
 
-Brief history, founding myths, major turning points.
+Brief history, founding myths, major turning points. ^cd2d80
 
 ## Current Affairs
 

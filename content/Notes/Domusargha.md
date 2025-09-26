@@ -5,9 +5,9 @@ title: Domusargha
 draft: false
 ---
 
-###### Up: [[Den Chöton#Cities|Cities]] | [[Development Stages MOC#**Requires Consideration**]]
+###### Up: [[Den Chöton Locations MOC#Cities|Cities]] | [[Development Stages MOC#**Requires Consideration**]]
 
-# [[Domusargha]]
+# Domusargha
 
 > [!info]
 > - Type: [[Dawnbringer's Jewels|Dawnbringer's Jewel]]                       <!-- City / Ruin / Site / Landmark -->

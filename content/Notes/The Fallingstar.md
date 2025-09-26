@@ -3,11 +3,9 @@ title: The Fallingstar
 draft: false
 ---
 
-# The Fallingstar
-
 ###### Up: [[People MOC#Legendary NPCs|Legendary NPCs]] | [[Development Stages MOC]]
 
-## [[The Fallingstar]]
+# The Fallingstar
 
 > [!info]
 > - Role: A Mythical Figure; Conflates Acts of [[Grizeldriel Öbeb]] and [[Cruentus]]

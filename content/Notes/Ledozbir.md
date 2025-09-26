@@ -5,9 +5,9 @@ title: Ledozbir
 draft: false
 ---
 
-###### Up: [[Den Chöton#Cities|Cities]] | [[Dawnbringer's Jewels#Ledozbir|Dawnbringer's Jewel]]
+###### Up: [[Den Chöton Locations MOC#Cities|Cities]] | [[Dawnbringer's Jewels#Ledozbir|Dawnbringer's Jewel]]
 
-# [[Ledozbir]]
+# Ledozbir
 
 > [!info]
 > - Type: [[Dawnbringer's Jewels#Snihozbir|Goliath Jewel]]                       <!-- City / Ruin / Site / Landmark -->
@@ -35,7 +35,7 @@ draft: false
 
 ## Overview
 
-One of the [[Dawnbringer's Jewels]] still has close ties to [[Regentseat]] lots of different races live here even though it is in [[Goliath]] ranges. The [[Goliath]] in this city have very different culture than surrounding tribes.
+One of the [[Dawnbringer's Jewels]] still has close ties to [[Regentseat]] lots of different races live here even though it is in the [[Snihovyhory|North Yolsa Mountains]]. The [[Goliath]] in this city have very different culture than surrounding tribes.
 
 # TBD
 

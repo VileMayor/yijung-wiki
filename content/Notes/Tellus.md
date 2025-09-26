@@ -3,11 +3,9 @@ title: Tellus
 draft: false
 ---
 
-# Tellus
-
 ###### Up: [[People MOC#Deities|Deities]] | [[Elven Pantheon]] | [[Tel Ling]] | [[Tarmé-mo|Mikyé-ma]] | [[Development Stages MOC]]
 
-## Tellus
+# Tellus
 
 > [!info]
 > - Status: [[United]]

@@ -7,7 +7,7 @@ draft: false
 
 ###### Up: [[Groups MOC#Governments|Governments]] | [[Frostlands]] | [[Development Stages MOC#**Room to Left to Grow**]]
 
-# [[Frost Orc Tribes]]
+# Frost Orc Tribes
 
 > [!info]
 > - Type: Collection of Tribes                    <!-- Monarchy / Republic / Oligarchy / Theocracy / City-State -->

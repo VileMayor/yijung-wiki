@@ -5,7 +5,7 @@ draft: false
 
 ###### Up: [[Groups MOC#Governmental Factions|Governmental Factions]] | [[Development Stages MOC]]
 
-# [[Imperatrix Lux]]
+# Imperatrix Lux
 
 > [!info]
 > - Current: [[Luxanna Öbeb III]]

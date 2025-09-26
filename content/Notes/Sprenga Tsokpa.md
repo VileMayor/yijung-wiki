@@ -5,7 +5,7 @@ draft: false
 
 ###### Up: [[People MOC#Deities|Deities]] | [[Calendar Pantheon]] | [[Calendar Lux]]
 
-# [[Sprenga Tsokpa]]
+# Sprenga Tsokpa
 
 > [!info]
 > - Role: God of Seeds and Spring different from [[Elven God of Harvest]]

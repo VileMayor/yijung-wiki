@@ -3,9 +3,9 @@ title: Gyaltson-ne
 draft: false
 ---
 
-###### Up: [[Den Chöton#Cities|Cities]] | [[Dawnbringer's Jewels#Gyaltson-ne - Orc Jewel|Dawnbringer's Jewel]]
+###### Up: [[Den Chöton Locations MOC#Cities|Cities]] | [[Dawnbringer's Jewels#Gyaltson-ne - Orc Jewel|Dawnbringer's Jewel]] | [[Development Stages MOC#**Room To Left to Grow**]]
 
-# [[Gyaltson-ne]]
+# Gyaltson-ne
 
 > [!info]
 > - Type: [[Dawnbringer's Jewels#Gyaltson-ne - Orc Jewel|Orc Jewel]]                       <!-- City / Ruin / Site / Landmark -->

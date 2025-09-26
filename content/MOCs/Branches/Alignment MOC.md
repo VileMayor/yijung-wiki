@@ -5,13 +5,15 @@ title: Alignment MOC
 draft: false
 ---
 
-###### Up: [[Campaign MOC#Mechanics|Mechanics]]
+###### Up: [[Campaign MOC#* Alignment MOC Alignment *|Campaign MOC]]
 
-# [[Alignment MOC|Alignment]]
+# [[Alignment MOC]]
 
 ## Overview
 
-The alignments found on this vault are not what would show up while [[Detect Good and Evil - Mechanics|using detect good and evil]]. Instead they reflect my, VileMayor's determination. (Only opinion who matters; since this is mostly for roleplay:)
+^229f0e
+
+The alignments found on this vault are not what would show up while [[Detect Good and Evil - Mechanics|using detect good and evil]]. Instead they reflect my, VileMayor's determination. (Only opinion who matters; since this is mostly for roleplay:) ^e9784d
 
 -Good - Community Minded
 -Neutral - 

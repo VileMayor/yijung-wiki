@@ -7,7 +7,7 @@ draft: false
 
 ###### Up: [[Groups MOC#Governmental Factions|Governmental Factions]] | [[Regentseat Council]]
 
-# [[House Nga-khrulpa]]
+# House Nga-khrulpa
 
 > [!info]
 > - Type: Noble House of [[Imperium Jampyul|The Imperium]] a sitting member of the [[Regentseat Council]]    

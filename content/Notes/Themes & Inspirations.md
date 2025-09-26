@@ -5,7 +5,9 @@ draft: false
 
 ###### Up: [[index|Home Page]]
 
-# Themes
+# Themes & Inspirations
+
+## Themes
 
 ---
 ---
@@ -15,7 +17,7 @@ draft: false
 
 ---
 
-# Inspirations
+## Inspirations
 
 ---
 ---

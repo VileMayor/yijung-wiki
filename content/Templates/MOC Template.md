@@ -12,7 +12,7 @@ frontmatter.draft = false
  }) }, 300) %>###### Up: <%* tR += '[[' + 'index' + ']]' %> | <%* tR += '[[' + 'Development Stages MOC' + ']]' %>
 ---
 
-# [[<% tp.file.title %>]]
+# <% tp.file.title %>
 
 ## **Heading**
 
