@@ -40,16 +40,21 @@ sort file.mtime desc
 ```
 %%
 
-- [[MOCs/Branches/In-Game Languages.md|In-Game Languages]]
-- [[Den Chöton Locations MOC|Den Chöton Locations MOC]]
-- [[MOCs/Trunk/Campaign MOC.md|Campaign MOC]]
+- [[MOCs/Trunk/People MOC.md|People MOC]]
+- [[MOCs/Trunk/New and Recent Files MOC.md|New and Recent Files MOC]]
 - [[MOCs/Trunk/Development Stages MOC.md|Development Stages MOC]]
-- [[MOCs/Trunk/Groups MOC.md|Groups MOC]]
-- [[Locations MOC|Locations MOC]]
-- [[MOCs/Branches/Players.md|Players]]
-- [[People MOC|People MOC]]
+- [[MOCs/Branches/In-Game Languages.md|In-Game Languages]]
+- [[MOCs/Trunk/Locations MOC.md|Locations MOC]]
+- [[MOCs/Trunk/Campaign MOC.md|Campaign MOC]]
+- [[MOCs/Branches/Den Chöton Locations MOC.md|Den Chöton Locations MOC]]
+- [[Notes/Elven Arrival.md|Elven Arrival]]
+- [[Templates/Event - Stub Template.md|Event - Stub Template]]
+- [[Templates/Event - Full Template.md|Event - Full Template]]
 - [[Notes/Themes & Inspirations.md|Themes & Inspirations]]
 - [[Notes/Fae Plane.md|Fae Plane]]
+- [[Notes/Detect Good and Evil - Mechanics.md|Detect Good and Evil - Mechanics]]
+- [[MOCs/Branches/Players.md|Players]]
+- [[MOCs/Trunk/Groups MOC.md|Groups MOC]]
 
 %% DATAVIEW_PUBLISHER: end %%
 

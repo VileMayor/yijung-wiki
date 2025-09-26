@@ -117,7 +117,6 @@ sort file.name asc
 ```
 %%
 
-- [[Alignment MOC|Alignment]]
 - [[Notes/Detect Good and Evil - Mechanics.md|Detect Good and Evil - Mechanics]]
 - [[Notes/Lhachönomics.md|Lhachönomics]]
 

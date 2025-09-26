@@ -29,7 +29,6 @@ sort file.name asc
 ```
 %%
 
-- [[Den Chöton Locations MOC|Den Chöton Locations MOC]]
 - [[Notes/Fae Plane.md|Fae Plane]]
 - [[index.md|index]]
 

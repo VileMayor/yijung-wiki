@@ -18,7 +18,7 @@ SORT file.name ASC
 ```
 %%
 
-- [[Salbé|Salbé]]
+- [[Notes/Salbé.md|Salbé]]
 
 %% DATAVIEW_PUBLISHER: end %%
 
@@ -33,12 +33,7 @@ sort file.name asc
 ```
 %%
 
-- [[Notes/Dömling.md|Dömling]]
-- [[Notes/Frostlands.md|Frostlands]]
-- [[Notes/Pigyunchan-mi.md|Pigyunchan-mi]]
-- [[Notes/Snihovyhory.md|Snihovyhory]]
-- [[Notes/Vartozori.md|Vartozori]]
-- [[Notes/Yolsa.md|Yolsa]]
+
 
 %% DATAVIEW_PUBLISHER: end %%
 

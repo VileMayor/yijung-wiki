@@ -31,6 +31,7 @@ sort file.mtime desc
 ```
 %%
 
+- [[MOCs/Trunk/New and Recent Files MOC.md|New and Recent Files MOC]]
 - [[MOCs/Branches/In-Game Languages.md|In-Game Languages]]
 - [[index.md|index]]
 - [[MOCs/Trunk/Campaign MOC.md|Campaign MOC]]
